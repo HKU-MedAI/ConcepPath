@@ -36,9 +36,6 @@ def train(
     lr = args.learning_rate
     vlm_name = args.vlm_name
     attn_type = args.attn_type
-    
-    # ['RN50', 'RN101', 'RN50x4', 'RN50x16', 'ViT-B/32', 'ViT-B/16']
-    clip_base_model = args.clip_base_model 
      
     num_epochs = args.num_epochs
     
@@ -103,17 +100,12 @@ def train(
             patch_prompt=patch_level_prompts_,
             clip_model=clip_model,
             loss_func= loss_fn,
-            n_classes = args.n_classes,
-            weighted_type = args.weighted_type,
             num_patch_prompt = args.num_patch_prompt,
-            attn_type = args.attn_type,
-            mask_ratio=args.mask_ratio,
             n_ctx = args.n_ctx,
-            n_flp = args.n_flp,
-            n_sp = args.n_sp,
             is_shared = args.is_shared,
+            n_ddp = args.n_ddp,
             orth_ratio = args.orth_ratio,
-            is_adapted = args.is_adapted
+            adapt_ratio = args.adapt_ratio
         ).to(device)
     
     '''

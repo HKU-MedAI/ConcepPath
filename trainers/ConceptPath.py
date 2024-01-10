@@ -248,25 +248,24 @@ class PromptLearner(nn.Module):
 
 
 class ConceptPath(nn.Module):
-    def __init__(self, slide_prompt, patch_prompt, clip_model, loss_func, n_classes, attn_type, num_patch_prompt=26, mask_ratio=0, n_ctx=16, n_flp=0, n_sp=0, is_shared=False, orth_ratio=0.2, weighted_type="avg", is_adapted=False, tr_ratio=0):
-        
+    def __init__(self, slide_prompt, patch_prompt, clip_model, loss_func, num_patch_prompt=26, n_ctx=16, n_ddp=0, is_shared=False, orth_ratio=2, adapt_ratio=0):
         super().__init__()
         
+        n_flp = n_ddp
+        
         self.num_patch_prompt_ = num_patch_prompt+n_flp
-        self.weighted_type = weighted_type
-            
+        
         self.orth_ratio = orth_ratio
         
         self.clip_model = clip_model
         
-        self.n_flp = n_flp
+        self.n_flp = n_ddp
+        
         self.patch_prompt_learner = PromptLearner(patch_prompt, clip_model, n_ctx, n_flp, num_patch_prompt, is_shared=is_shared)
-    
         self.slide_prompt_learner = PromptLearner(slide_prompt, clip_model, n_ctx, is_shared=is_shared)
-       
+        
         self.patch_tokenized_prompts = self.patch_prompt_learner.tokenized_prompts
         self.slide_tokenized_prompts = self.slide_prompt_learner.tokenized_prompts
-
         self.text_encoder = TextEncoder(clip_model)
         
         self.loss_func = loss_func
@@ -274,17 +273,15 @@ class ConceptPath(nn.Module):
         self.logit_scale = clip_model.logit_scale
         self.dtype = clip_model.ln_final.weight.dtype
         
-        self.mask_ratio = mask_ratio
-        self.is_adapted = is_adapted
-        self.tr_ratio = tr_ratio
-        if is_adapted:
+        self.adapt_ratio = adapt_ratio
+        
+        if self.adapt_ratio>0:
             self.text_adapter = Adapter(512)
             self.feature_adapter = Adapter(512)
 
     def forward(self, patch_features, label, result_fp=None, test=False):
-        # print(patch_features.shape)
+        
         patch_features = patch_features.squeeze(0)
-
         patch_features = patch_features.type(self.dtype)
         patch_prompts = self.patch_prompt_learner()
         patch_tokenized_prompts = self.patch_tokenized_prompts
@@ -316,14 +313,14 @@ class ConceptPath(nn.Module):
         slide_text_features = slide_text_features.type(self.dtype)
         
         # oth loss for patch text features
-        loss_i = orthogonal_loss(patch_text_features.reshape(-1, self.num_patch_prompt_, 512).transpose(1,2))
+        orth_loss = orthogonal_loss(patch_text_features.reshape(-1, self.num_patch_prompt_, 512).transpose(1,2))
         
         sim_matrix = F.softmax(logit_scale*patch_features@patch_text_features.t(), dim=1)
         
         if test:
             import pickle
             out_put = {"name": result_fp.split("/")[-1], "att_score": sim_matrix}
-            with open(result_fp.replace(".pkl", "_quilt1m.pkl"), 'wb') as file:
+            with open(result_fp, 'wb') as file:
                 pickle.dump(out_put, file)
         
         num_patchs, _ = sim_matrix.shape
@@ -346,13 +343,13 @@ class ConceptPath(nn.Module):
 
         slide_features = slide_features / slide_features.norm(dim=-1, keepdim=True)
             
-        ratio = 0.2
+        
+        if self.adapt_ratio>0:
+            adapted_slide_features = self.feature_adapter(slide_features)
+            slide_features = self.ratio * adapted_slide_features/adapted_slide_features.norm(dim=-1, keepdim=True) + (1 - self.ratio) * slide_features
             
-        adapted_slide_features = self.text_adapter(slide_features)
-        slide_features = ratio * adapted_slide_features/adapted_slide_features.norm(dim=-1, keepdim=True) + (1 - ratio) * slide_features
-            
-        adapted_slide_text_features = self.text_adapter(slide_text_features)
-        slide_text_features = ratio * adapted_slide_text_features/adapted_slide_text_features.norm(dim=-1, keepdim=True) + (1 - ratio) * slide_text_features
+            adapted_slide_text_features = self.text_adapter(slide_text_features)
+            slide_text_features = self.ratio * adapted_slide_text_features/adapted_slide_text_features.norm(dim=-1, keepdim=True) + (1 - self.ratio) * slide_text_features
             
         slide_features = slide_features / slide_features.norm(dim=-1, keepdim=True)
         slide_text_features = slide_text_features / slide_text_features.norm(dim=-1, keepdim=True)
@@ -364,5 +361,5 @@ class ConceptPath(nn.Module):
         Y_hat = torch.topk(logits, 1, dim=1)[1]
         
         loss = self.loss_func(logits, label)
-    
-        return logits, Y_prob, Y_hat, loss+self.orth_ratio*loss_i.sum()
+
+        return logits, Y_prob, Y_hat, loss + self.orth_ratio*orth_loss.sum()
