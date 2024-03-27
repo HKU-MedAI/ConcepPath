@@ -1,0 +1,111 @@
+Tumor size - Larger tumor area with irregular borders; heterogeneous appearance
+
+Tumor infiltrating lymphocytes - Presence of immune cells within the tumor mass; diffuse distribution
+
+Tumor budding - Small clusters of cancer cells at the invasive front; loss of glandular structures
+
+Poorly differentiated - Loss of gland formation; high nuclear atypia; increased nuclear-to-cytoplasmic ratios
+
+Angiolymphatic invasion - Presence of tumor cells within blood vessels or lymphatic channels; associated with endothelial-lined spaces
+
+Desmoplastic stroma - Dense network of fibroblasts and collagen fibers surrounding tumor cells; increased extracellular matrix deposition
+
+Necrosis - Presence of large areas of cell death; loss of architecture and tissue breakdown
+
+Mitotic figures - Increased number of cells undergoing cell division; identified by their condensed chromosomes
+
+Increased Ki-67 index - Higher percentage of cells showing nuclear positivity for Ki-67; marker of increased proliferation
+
+Loss of E-cadherin expression - Reduced or absent staining for E-cadherin in cell membranes; hallmark of epithelial-mesenchymal transition
+
+HER2 overexpression/amplification - Increased protein expression or gene copy number of HER2; detected by immunohistochemistry or fluorescence in situ hybridization
+
+Perineural invasion - Tumor cells surrounding and infiltrating nerves; identified by the presence of cancer cells within the perineural spaceTumor-stroma ratio - Proportion of tumor cells to stromal cells in the tumor microenvironment; higher ratios indicate more tumor cells and less stroma
+
+Signet ring cells - Presence of cancer cells with prominent intracellular mucin pushing the nucleus to the cell periphery; gives cells a signet ring appearance
+
+Tumor-associated macrophages - Increased number of macrophages in the tumor microenvironment; identified by immune cell markers like CD68 or CD163
+
+Cancer-associated fibroblasts - Presence of activated fibroblasts surrounding the tumor, often with spindle-shaped morphology; identified by markers like αSMA or FAP
+
+Anoikis-resistant cells - Presence of cancer cells that evade cell death upon detachment from the extracellular matrix; indicative of higher metastatic potential
+
+Loss of basement membrane integrity - Areas with a disrupted or attenuated basement membrane, as detected by staining with collagen IV or laminin
+
+Carcinoma in situ or high-grade dysplasia - Identification of malignant epithelial cells contained within the basement membrane; show nuclear abnormalities and increased mitotic activity
+
+Heterotypic signaling - Presence of cell-to-cell signaling between cancer cells and surrounding stromal cells; promotes tumor growth and progression
+
+Tumor hypoxia - Presence of regions with low oxygen levels within the tumor; detected by hypoxia markers like HIF-1α or GLUT1
+
+Tumor microvessel density - Increased number of blood vessels within the tumor; assessed by CD31 or CD34 markers on endothelial cells
+
+Loss of tumor suppressor gene expression - Reduced or absent staining for tumor suppressor proteins, like p53 or PTEN; indicative of a more aggressive tumor subtype
+
+Lymphovascular space invasion - Tumor cells identified within small lymphatic vessels or blood vessels adjacent to the tumor; may indicate a higher likelihood of metastasisMatrix metalloproteinase (MMP) expression - Increased expression of proteins involved in extracellular matrix degradation; detected by immunohistochemistry for MMPs like MMP-2 or MMP-9
+
+Endoplasmic reticulum (ER) stress - Presence of markers indicating stress in the ER, such as BiP/GRP78 or CHOP; associated with unfolded protein response activation
+
+Cancer stem cell markers - Expression of proteins suggesting cancer stem cell-like properties, like CD44 or CD133; may indicate tumor-initiating potential and resistance to treatments
+
+Mucin expression patterns - Altered expression of mucins within the tumor microenvironment, like MUC1, MUC2, or MUC5AC; may indicate certain tumor subtypes
+
+Epithelial polarity loss - Disorganization and loss of apicobasal polarity in epithelial tumor cells; disrupted cellular arrangement and cell-cell adhesion structures
+
+Chromosomal instability - Increased number of aneuploid and/or polyploid cells; may be visualized via FISH or cytogenetic analysis
+
+High levels of reactive oxygen species (ROS) - Higher intracellular levels of ROS detected by markers like DCFDA or protein carbonyls; indicating oxidative stress
+
+Autophagy activation - Upregulation of autophagy signaling pathways, as evident by the presence of LC3-positive puncta in tumor cells; associated with treatment resistance
+
+Immune checkpoint expression - Increased expression of immune checkpoint molecules like PD-L1, CTLA-4 or TIGIT; can lead to suppression of T cell responses in the tumor microenvironment
+
+Extrachromosomal DNA amplification - Presence of circular episomes containing amplified oncogenes; detected by FISH or high-resolution DNA-copy number analysis
+
+Elevated c-Myc expression - Higher levels of c-Myc protein expression or gene amplification; contributing to uncontrolled cellular proliferation and metabolism
+
+Non-coding RNA expression - Altered expression of non-coding RNAs, like microRNAs or long non-coding RNAs, which may regulate gene expression involved in tumor progression and aggressivenessAberrant DNA methylation - Changes in methylation patterns within the tumor, such as hypermethylation of tumor suppressor genes or hypomethylation of oncogenes; associated with gene silencing or activation
+
+Lysosomal activity - Increased presence of lysosomes in tumor cells, evidenced by staining for lysosomal markers like LAMP1 or LAMP2; may suggest active autophagy or altered cellular metabolism
+
+Paraneoplastic syndromes - Detection of autoantibodies or ectopic hormone production, indicating secondary effects of malignancy on distant organ systems
+
+Altered gene fusion events - Presence of gene fusions like ETV6-NTRK3, FGFRs or ALK rearrangements; confirmed via FISH, PCR or RNA-seq
+
+Disruption of cell junctions - Loss or abnormalities in cell-cell junctions, identified by altered expression and localization of adhesion molecules like occludins and catenins
+
+Telomerase activity - Elevated levels of telomerase, an enzyme responsible for maintaining telomere length; may facilitate unlimited replicative potential of tumor cells
+
+Increased glucose uptake - Higher glucose avidity observed via FDG-PET scans, reflecting increased glycolytic activity in tumor cells
+
+Altered metabolism - Changes in metabolic activity within the tumor, including upregulation of enzymes and metabolic pathways such as glycolysis, glutaminolysis, or fatty acid synthesis
+
+Tumor dormancy - Presence of quiescent or slowly cycling tumor cells that have entered a state of G0 arrest; may be identified by markers like Ki-67 or p27
+
+Changes in extracellular vesicles - Abundance and altered content of extracellular vesicles (such as exosomes) within the tumor microenvironment; may reflect intercellular communication
+
+PDGFR pathway activation - Upregulation of platelet-derived growth factor receptor (PDGFR) pathways, indicated by staining for proteins like PDGFR-alpha or PDGFR-beta; associated with tumor growth and progression
+
+Invasive lobular carcinoma features - Presence of single-file invasion pattern and discohesive cells, as seen in invasive lobular carcinomas; identified by reduced and altered E-cadherin expressionCytoskeleton remodeling - Changes in the composition and organization of cytoskeleton elements, including microfilaments, microtubules, and intermediate filaments; visualized by staining for proteins like actin and tubulin
+
+Tumor-associated adipocytes - Presence of adipocytes within the tumor microenvironment, possibly promoting malignancy through secretion of adipokines and cytokines; detected by staining for proteins like PLIN1 and FABP4
+
+Endothelial cell proliferation - Increase in endothelial cells within the tumor microenvironment; indicative of angiogenesis, as assessed by staining for proteins like CD31 or CD34
+
+Increased expression of COX-2 - Elevated levels of cyclooxygenase-2 in the tumor cells, an enzyme implicated in inflammation and tumor growth; detected by immunohistochemistry
+
+Somatic mutations - Identification of somatic mutations in key genes or signaling pathways within the tumor tissue, using techniques like next-generation sequencing or PCR
+
+Dysregulated apoptosis - Changes in the balance between pro-apoptotic and anti-apoptotic proteins, evidenced by staining for proteins like Bcl-2, Bax or cleaved caspase-3
+
+Peritumoral inflammation - Presence of inflammatory cells and mediators in the tissue surrounding the tumor; may lead to a pro-tumorigenic microenvironment
+
+Reduced autophagy - Decreased autophagic activity, indicated by markers such as LC3, SQSTM1/p62, or Beclin-1; may compromise cellular recycling and survival mechanisms
+
+Altered integrin expression - Imbalances in the levels of specific integrins on tumor cell surfaces, which may modulate cell adhesion, migration, and invasion; detected by immunostaining
+
+Hypermethylation of miRNA genes - Epigenetic silencing of miRNA genes due to hypermethylation of CpG islands in their promoter regions; may promote tumorigenesis and metastasis
+
+Altered Notch signaling - Imbalances in the Notch signaling pathway, indicated by changes in the expression of receptors, ligands, or target genes; often involved in cell proliferation, differentiation, and apoptosis
+
+Organoid formation - In vitro 3D culture system resembling primary tissue architecture, providing insights into tumor initiation, growth, progression and metastasis within a controlled laboratory setting

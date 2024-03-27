@@ -1,0 +1,39 @@
+1. Tumor-infiltrating lymphocytes (TILs) - increased number; dense clusters; around tumor cells
+2. Crohn's-like reaction - dense bands; stromal or intratumoral lymphoid aggregates; separating tumor cells
+3. Nodular growth pattern - tumor cells expanding; pushing borders; discrete nodules
+4. Tumor heterogeneity - varying histological patterns; tubular; mucinous; signet ring cells
+5. Intraepithelial neoplasia - irregular glandular proliferation; back-to-back arrangement; nuclear crowding
+6. Tumor budding - isolated single cells; small cell clusters; scattered at invasive front
+7. Desmoplastic reaction - dense fibrous stroma; collagen deposition; entrapped tumor cells
+8. Necrosis - cell death; punctate; diffuse; geographic areas
+9. Mucin pools - extracellular mucus accumulation; clear spaces; dissecting tumor cells10. Perineural invasion - tumor cells surrounding nerves; nerve compression; nerve infiltration
+11. Angiolymphatic invasion - tumor cells within lymphatic spaces; surrounding blood vessels; irregular endothelium
+12. Signet ring cells - abundant intracytoplasmic mucin; nucleus displacement; single or clusters
+13. Antral-predominant growth - involvement of the gastric antrum; distal stomach; irregular and nodular surface
+14. Poorly cohesive cells - minimal intercellular adhesion; single cells or small clusters; reduced gland formation
+15. Increased mitotic activity - numerous mitotic figures; aberrant mitosis; cell division
+16. Host response to tumor - lymphocytic infiltration; foreign body-type granulomas; giant cells
+17. Peritumoral lymphoid aggregates - dense lymphoid aggregates; bordering tumor margin; immune response
+18. Mucinous carcinoma - >50% tumor area with mucin pools; abundant extracellular mucin; signet ring cells
+19. Cellular pleomorphism - variable cell and nuclear size; irregular cell shape; anisocytosis and anisonucleosis
+20. Dysplasia - architectural and cytological atypia; elongated nuclei; loss of nuclear polarity21. Lymph node metastasis - tumor cells within lymph nodes; replacement of lymphoid tissue; enlarged lymph nodes
+22. Sheet-like growth - tumor cells forming large sheets; absence of glandular structures; minimal stroma
+23. Intestinal metaplasia - glandular epithelial replacement; goblet cells; absorptive cells; brush border
+24. Pseudopapillary structures - tumor cells forming papillary projections; fibrovascular cores; branching pattern
+25. Atypical glandular arrangements - irregular, elongated or branched glands; back-to-back distribution; crowded
+26. Nuclear irregularities - enlarged nuclei; hyperchromasia; prominent nucleoli; chromatin clumping
+27. Loss of normal tissue architecture - disorganized glandular arrangement; irregular spacing; infiltrative growth
+28. Connective tissue infiltration - tumor cells invading surrounding connective tissue; stromal response
+29. Anaplasia - extreme cellular and nuclear pleomorphism; loss of differentiation; high-grade dysplasia
+30. Perforation or ulceration - tissue breakdown; necrotic debris; fibrin deposition; inflammatory infiltrate31. Submucosal invasion - tumor cells infiltrating beyond muscularis mucosae; penetration into submucosa
+32. Muscularis propria invasion - tumor cells invading muscularis propria layer; muscular infiltration
+33. Serosal involvement - tumor cells reaching serosa; peritoneal infiltration; possible ascites
+34. Adjacent organ infiltration - tumor cells invading adjacent organs; gross contact; direct extension
+35. Satellite nodules - separate tumor foci; beyond main tumor mass; discontinuous growth
+36. Focal squamous differentiation - areas with keratinizing squamous cells; intermixed with glandular cells
+37. Large cell neuroendocrine morphology - large cells with high nuclear-to-cytoplasmic ratio; poorly differentiated
+38. Palisading cells - tumor cells aligned in parallel rows; resemble picket fence; along periphery of tumor nests
+39. Foamy histiocytes - abundant foamy cytoplasmic lipid vacuoles; lipid-laden macrophages; infiltration
+40. Hyaline globules - eosinophilic intracytoplasmic globules; fibrin or mucin content; degeneration or secretion
+
+Note that the presence of these features alone does not necessarily confirm the Microsatellite Instability subtype of gastric cancer. Additional molecular analyses, such as immunohistochemistry for mismatch repair proteins and polymerase chain reaction (PCR) for microsatellite instability, are required for definitive diagnosis.

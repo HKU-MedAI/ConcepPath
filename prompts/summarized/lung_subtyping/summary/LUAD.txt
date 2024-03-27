@@ -1,0 +1,93 @@
+1. Glandular Patterns:
+LUAD often exhibits structures resembling glands. These can be tubular, acinar, or papillary formations that are lined by atypical cells with varying degrees of mucin production.
+
+2. Lepidic Growth:
+This pattern is characterized by neoplastic cells growing along the alveolar structures without invasion into the stroma. It is often seen in early adenocarcinomas or minimally invasive adenocarcinomas.
+
+3. Papillary Structures:
+Tumors may show true papillary architecture with fibrovascular cores lined by malignant cells, sometimes containing mucin.
+
+4. Micropapillary Features:
+Small clusters of cells with no fibrovascular core and surrounded by clear spaces, which are an artifact of tissue processing, suggest a micropapillary pattern.
+
+5. Solid Growth with Mucin:
+LUAD may also present with solid growth patterns, but these typically have evidence of mucin production when special stains (like mucicarmine or periodic acid-Schiff) are used.
+
+6. Cellular and Nuclear Features:
+Cells in LUAD can vary but often have a cuboidal to columnar shape, sometimes with a hobnail appearance. The nuclei can be pleomorphic, and nucleoli may be prominent.
+
+7. Growth Along Alveolar Walls: 
+On a microscopic level, early-stage adenocarcinomas may show a lepidic growth pattern, characterized by tumor cells spreading along preexisting alveolar walls, a pattern that is typically not invasive.
+
+8. Scar Carcinoma: 
+Some LUADs may arise in association with areas of lung scarring or fibrosis, which can sometimes lead to a misdiagnosis as a benign scar on imaging unless a biopsy is performed.
+
+9. EGFR Protein Overexpression: 
+EGFR protein expression would be visualized as membranous staining because EGFR is a cell membrane receptor. In some cases, there may also be cytoplasmic staining, but the primary diagnostic focus is on the membrane.
+
+10. ALK Fusions: 
+For ALK IHC, cytoplasmic staining is the key indicator, reflecting the presence of the ALK protein within the cell.
+The staining can be granular or diffuse within the cytoplasm.
+
+11. KRAS Protein Overexpression: 
+KRAS protein expression would be observed in the cytoplasm of cells, as KRAS is associated with the inner surface of the cell membrane.
+
+12. PD-L1 Protein Levels:
+PD-L1 staining is typically membranous, highlighting the cell surface where PD-L1 is naturally expressed.
+Cytoplasmic staining may also be present, but it is the membranous staining that is considered when evaluating PD-L1 expression for therapeutic implications.
+
+13. High Expression of Metabolic Genes: 
+Depending on the metabolic enzyme being assessed, staining can be cytoplasmic, membranous, or nuclear. For example, enzymes involved in glycolysis would typically show cytoplasmic staining because that's where the glycolytic pathway occurs.
+
+14. Immune Cells: 
+IHC can detect immune cell markers such as CD3, CD4, CD8 (T cells), CD20 (B cells), CD68 (macrophages), and others. The staining pattern is typically localized to the cell type of interest within the The tumor microenvironment (TME).
+
+15. Fibroblasts: 
+Markers such as alpha-smooth muscle actin (α-SMA) indicate cancer-associated fibroblasts (CAFs) with staining in the fibroblast cytoplasm.
+
+16. Endothelial Cells: 
+Proteins like CD31 or CD34 will show staining in the endothelial cells lining blood vessels within the The tumor microenvironment (TME).
+
+17. Extracellular Matrix Components: 
+Collagen, fibronectin, and laminin, among others, will show a pattern consistent with the extracellular matrix surrounding and within the tumor stroma.
+
+18. DNA Methylation: 
+DNMTs are nuclear enzymes, so staining would be primarily nuclear.
+This involves the addition of a methyl group to the DNA molecule, usually at a cytosine base adjacent to a guanine (CpG sites). In LUAD, hypermethylation of tumor suppressor gene promoters, such as CDKN2A (p16), can lead to their silencing and contribute to tumor growth.
+
+19. Histone Modifications: 
+Histone modifications are localized to the nucleus, where histones package the DNA into chromatin. Therefore, nuclear staining is indicative of histone modifications.
+
+20. Non-Coding RNAs: 
+ncRNAs can be localized in the nucleus or cytoplasm, depending on their type and function. For example, miRNAs are generally found in the cytoplasm, where they interact with their target mRNAs, while lncRNAs can be found in either the nucleus or the cytoplasm.
+
+21. Chromatin Remodeling: 
+Most chromatin remodeling proteins will show nuclear staining due to their roles in modifying chromatin structure directly within the nucleus.
+Changes in chromatin structure can affect gene accessibility. Mutations in chromatin remodeling genes like SWI/SNF have been identified in LUAD, leading to widespread alterations in gene expression patterns.
+
+22. TP53 Protein Overexpression:
+A "wild-type" pattern of p53 staining is typically a low to moderate level of nuclear staining reflecting the transient expression of p53 in response to normal cellular stress.
+An "abnormal" staining pattern might show either no staining (null pattern) or strong and extensive nuclear staining, suggesting the presence of a TP53 mutation.
+
+23. MET Gene Amplification:
+A crisp, linear membranous staining pattern is typically associated with overexpression of receptor tyrosine kinases like MET.
+
+24. Lack of STK11 Gene:
+A "null" pattern, with no detectable staining in the tumor cells, while normal cells or control tissues show positive staining, can suggest a loss of STK11 expression.
+Deletions of STK11 are often found in conjunction with KRAS mutations in LUAD. 
+
+25. Epithelial-to-mesenchymal Transition
+A decrease in the membranous staining of E-cadherin and an increase in the cytoplasmic and/or membranous staining of mesenchymal markers.
+Staining for mesenchymal markers may be more pronounced at the invasive front of the tumor, where cells are actively undergoing EMT.
+
+26. BRCA1-associated protein 1 (BAP1) Mutations:
+A "null" pattern, characterized by an absence of nuclear staining in tumor cells that should normally express BAP1, while adjacent non-tumor cells show positive nuclear staining, could be indicative of BAP1 loss due to mutation.
+Mutations or deletions in BAP1 can lead to a loss of its tumor suppressor function, contributing to the development and progression of LUAD. When BAP1 function is compromised, cells may have difficulty repairing DNA damage, leading to genomic instability and potentially promoting oncogenesis.
+
+27. ABCA3 Protein Overexpression
+A fine granular cytoplasmic and linear membranous staining pattern would be expected if ABCA3 is overexpressed.
+This would show up as a marked increase in staining in the cytoplasm of alveolar type II cells or in adenocarcinoma cells if ABCA3 is highly expressed.
+
+28. THBS Protein Overexpression
+The pattern may be granular due to the localization of THBS1 within the extracellular matrix and its secretion from cells.
+Angiogenesis Inhibition, the process by which new blood vessels form. In cancer, the inhibition of angiogenesis can suppress tumor growth by limiting the tumor's blood supply.

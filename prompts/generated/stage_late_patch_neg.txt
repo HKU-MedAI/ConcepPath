@@ -1,0 +1,37 @@
+1. Large tumor size - increased area occupied on slide; irregular tumor borders
+2. High tumor density - tightly packed, disorganized tumor cells; small intercellular spaces
+3. Necrosis - regions of dead cells; lighter staining appearance; loss of cellular structure
+4. Pleomorphic cells - varied cell shapes and sizes; irregular nuclei; hyperchromatic nuclei
+5. High vascularization - increased number of blood vessels; irregular branching patterns; leaky vessels
+6. Infiltration into surrounding tissue - tumor cells breaking through the basal lamina; invasion into adjacent structures
+7. Lymphatic invasion - presence of tumor cells in lymphatic spaces or vessels; irregular shaping of lymphatic channels
+8. High mitotic rate - increased number of dividing cells; visible mitotic figures
+9. Nuclei pleomorphism - variation in nuclear size, shape, and staining; irregular nuclear membranes; prominent nucleoli
+10. Bronchial/bronchiolar invasion - disruption of bronchiole or bronchus architecture; infiltration of tumor cells into bronchial walls11. Desmoplasia - increased fibroblastic activity; collagen and fibrous tissue production; dense matrix surrounding tumor cells
+12. Intra-alveolar tumor cells - tumor cells found within alveolar spaces; alveolar septa disruption and thickening
+13. Pneumocyte hyperplasia - increased number of Type II pneumocytes; cuboidal cells lining alveoli; nuclear atypia
+14. Alveolar hemorrhage - presence of red blood cells within alveolar spaces; hemosiderin-laden macrophages
+15. Inflammation - immune cell infiltration; presence of lymphocytes, neutrophils, or macrophages in tumor tissue
+16. Perineural invasion - tumor cells encircling or infiltrating nerves; disruption of perineural sheaths
+17. Satellite nodules - multiple tumor foci found in the same lobe; separate tumor islands not connected to main tumor mass
+18. Visceral pleural invasion - tumor cells extending beyond the lung parenchyma; infiltration of tumor cells into the pleura
+19. Clear cell features - tumor cells with abundant clear cytoplasm; enlarged, distinct nuclei
+20. Signet ring cells - tumor cells containing intracytoplasmic mucin; pushing nuclei to edge of the cell21. Mucin production - presence of mucin within tumor cells or stroma; stained as light, pale blue or pink extracellular matrix
+22. Keratinization - keratin formation within tumor cells; pearl-like structures or whorls; dense, eosinophilic cytoplasm
+23. Tumor budding - small clusters of detached tumor cells at the invasive front; single, loosely connected cells
+24. Angiolymphatic invasion - presence of tumor emboli within blood vessels or lymphatic channels; obstructed or distended vessels
+25. Stroma-rich areas - high proportion of connective tissue within tumor; increased fibroblast proliferation; collagen deposition
+26. Single cell invasion - individual tumor cells infiltrating into adjacent tissue; isolated cells without clustering
+27. Cytologic atypia - presence of large, irregular nuclei; abnormal chromatin distribution; prominent nucleoli
+28. Interstitial inflammation - infiltration of inflammatory cells into the tissue surrounding the tumor; fibrosis
+29. Entrapped alveoli - residual alveolar structures surrounded by tumor cells; destruction of normal pulmonary architecture
+30. Solid patterning - dense tumor cell arrangement without distinct glandular structures; loss of individual cell borders31. Anaplastic cells - presence of undifferentiated tumor cells; poorly defined cell borders; large, hyperchromatic nuclei
+32. Crush artifact - distorted and compressed tumor cells; loss of cellular architecture due to slide preparation
+33. Reactive atypia - enlarged nuclei with open chromatin in non-tumor cells; reactive to inflammatory processes or tissue injury
+34. Spindle cell morphology - tumor cells with elongated shape; spindle-like nuclei with blunt ends; fusiform features
+35. Metaplasia - abnormal differentiation of lung epithelial cells; conversion to non-respiratory cell types within tumor
+36. Papillary architecture - finger-like projections of tumor cells; supported by thin, fibrovascular cores
+37. Tumor-infiltrating lymphocytes - presence of lymphocytes within tumor clusters; immune response against tumor cells  
+38. Emphysema - enlarged air spaces surrounded by damaged alveolar walls; coexisting lung damage
+39. Lipid accumulation - presence of lipid droplets within tumor cells; clear, foamy cytoplasm
+40. Micropapillary structures - clusters of tumor cells attached to the fibrovascular core; inversion of cell polarity, lacking direct contact with stroma

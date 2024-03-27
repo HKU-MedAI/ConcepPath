@@ -1,0 +1,37 @@
+1. Lymphoepithelioma-like carcinoma (LELC) - frequent EBV-positivity; dense lymphocyte infiltration; syncytial growth pattern; poorly-formed glands
+2. Crohn's-like lymphoid reaction (CLR) - intense lymphoid infiltration; formation of lymphoid follicles; deep fissures in the mucosa
+3. Prominent nucleoli - enlarged nuclei; distinct large nucleoli; hyperchromatic nuclei; pleomorphism
+4. Tumor-infiltrating lymphocytes (TILs) - dense infiltration of immune cells; lymphocytic bands; clustering around tumor cells
+5. Medullary growth pattern - solid tumor growth; lack of glandular differentiation; pushing borders; accompanied by immune cell infiltration
+6. Tumor heterogeneity - variable morphology and nuclear features; different growth patterns within the tumor
+7. Low-grade glandular differentiation - small tubular structures; low-grade dysplasia; few mitotic figures
+8. Marked eosinophil infiltration - presence of eosinophils amongst tumor cells; clusters or dispersed distribution; eosinophilic cytoplasm
+9. Lymphovascular invasion (LVI) - tumor invasion into lymphatic or vascular channels; single cells or clusters of cells; intracellular gaps
+10. Signet-ring cells - mucin-filled cytoplasm; eccentric nuclei; presence of intracellular mucin; observed individually or in clusters11. Mucinous carcinoma - abundant extracellular mucin; pools or lakes of mucin; cancer cells floating within mucin; goblet cells
+12. Invasive front - infiltrative borders; tumor cells at the periphery; tumor budding; desmoplastic reaction
+13. Peritumoral mononuclear cells - peripheral mononuclear cells; immune cells surrounding the tumor; intervining with tumor cells
+14. Tumor-stromal ratio - proportion of tumor cells to stromal cells; high ratio indicates more tumor cells; low ratio indicates more stromal cells
+15. Cancer-associated fibroblasts (CAFs) - fibroblasts with elongated, spindle-like morphology; supportive stroma; adjacent to tumor cells
+16. Necrosis - areas of cell death; loss of architecture; karyolysis and karyorrhexis; pale eosinophilic staining
+17. Nuclear pleomorphism - irregular nuclear shapes and sizes; hyperchromatic nuclei; multinucleation; chromatin clumping
+18. Cell discohesion - loss of cell-cell adhesion; tumor cells appear isolated or in small clusters; absence of glandular structures
+19. Mitotic activity - numerous mitotic figures; atypical mitotic figures; increased proliferation index
+20. Apoptotic bodies - small rounded structures; condensed nuclear material; fragments of dead cells; usually surrounded by healthy cells21. Pagetoid spread - intraepithelial extension of tumor cells; single cells or groups of cells; within the normal surface epithelium; disrupted epithelium
+22. Single-cell infiltration pattern - isolated tumor cells; individual infiltration without forming cohesive clusters; diffusely scattered in the stroma
+23. Psammoma bodies - round, concentric, calcified structures; laminated appearance; pink-staining on H&E slides; occasionally found in stroma
+24. Tumor border configuration - assessment of tumor outline; infiltrative or pushing borders; interface between tumor cells and stroma
+25. Pseudoangiomatous features - irregular, dilated spaces; lined by tumor cells; resembling vessel-like structures; absence of endothelial cells
+26. Desmoplasia - dense fibrous tissue; stromal reaction surrounding cancer cells; spindle-shaped fibroblasts; collagen deposition
+27. Inflammatory cell infiltration - immune cell presence; neutrophils, lymphocytes, and macrophages; dispersed or aggregated within the tumor
+28. Immune cell trapping - aggregates of immune cells; captured within the tumor stroma; not directly interacting with tumor cells
+29. Interstitial edema - increased fluid content in tissue; widening of interfibrillar spaces; separation of stromal structures
+30. Perineural invasion - tumor infiltration around nerves; cancer cells surrounding and invading nerve sheath; architectural disruption31. Squamous differentiation - tumor cells with a squamous appearance; keratin pearls; intercellular bridges in the tumor tissue
+32. Mucin extravasation - extravasated mucin within the stroma; result of ruptured glands or acini; surrounded by inflammatory cells
+33. Oncocytic features - tumor cells with eosinophilic, granular cytoplasm; large cells with abundant mitochondria and round, centrally placed nuclei
+34. Microcalcifications - small, localized calcifications; seen scattered within the tumor stroma; often associated with neoplastic cells
+35. Tumor-associated macrophages - macrophages in the stroma; associated with cancer cells; a heterogeneous population with different phenotypes
+36. Satellite foci - small clusters of tumor cells; separated from the main tumor bulk; possibly caused by tumor cell shedding or lymphovascular spread
+37. Tumor-associated adipocytes - fat cells within or surrounding the tumor; morphologically altered adipocytes; potentially influencing tumor microenvironment
+38. Dystrophic calcification - abnormal calcium deposit; associated with necrosis and cellular destruction; seen as dark blue or black structures in H&E slides
+39. Adherent tumor cells - tumor cells tightly attached to ECM proteins; ability to produce their own ECM proteins; responsible for invasion and metastasis
+40. Cytokeratin-positive cells - cells that express cytokeratins; common in epithelial cells; can be used for identification of tumor origin

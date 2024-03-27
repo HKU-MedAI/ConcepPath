@@ -1,0 +1,40 @@
+1. Tumor cellularity - varied cell density; heterogeneous tissue structure
+2. Tumor size - large; irregular borders
+3. Nuclear pleomorphism - varied size and shape; irregular nuclei edges
+4. Mitotic activity - low rate of cell division; fewer mitotic figures
+5. Tubule formation - poorly formed tubular structures; disorganized appearance
+6. Nuclei-to-cytoplasm ratio - higher ratio; more prominent nuclei
+7. Staining intensity - weak to moderate; uneven staining pattern8. Invasive growth pattern - infiltrative borders; disconnected tumor clusters
+9. Necrosis - patches of dead cells; disrupted tissue architecture
+10. Stromal composition - increased stromal content; collagen-rich
+11. Lymphocytic infiltrate - sparse lymphocyte infiltration; weak immune response
+12. Angiogenesis - low vessel density; irregularly shaped blood vessels
+13. Mucin production - absence or low levels of extracellular mucin
+14. Desmoplastic reaction - presence of fibrotic tissue; thick bands of collagen
+15. Tumor budding - presence of isolated single cells; small tumor cell clusters at the invasion front
+16. Apoptotic activity - low rate of cell death; fewer apoptotic bodies
+17. Chromatin structure - coarse distribution; heterochromatic regions
+18. Nucleoli size and number - variable, often inconspicuous nucleoli; irregular distribution
+19. Cytoplasm characteristics - scant cytoplasm; irregular cytoplasmic borders20. Calcifications - presence or absence of microcalcifications; varied morphology and distribution
+21. Inflammatory response - mild, localized inflammatory cell infiltration; minimal tissue damage
+22. Myoepithelial layer - discontinuous or absent myoepithelial cells; irregular distribution
+23. Lymphovascular invasion - tumor cells within lymphatic or blood vessels; infrequent occurrences
+24. Extracellular matrix (ECM) remodeling - irregular, fragmented ECM; disorganized structure
+25. Cellular polarity - loss of cell orientation; disorganized tissue arrangement
+26. Lipid accumulation - varied fatty content within and around tumor cells; dispersed pattern
+27. Cellular differentiation - limited differentiation or poorly differentiated tumor cells; immature appearance
+28. Pseudoangiomatous stromal hyperplasia (PASH) - slit-like space formation within stromal component; lined with spindle cells
+29. Fibrosis - increased fibrous tissue; interwoven collagen fibers
+30. Metaplasia - presence of specialized cell types within the tumor; uncommon cell differentiation patterns
+31. Adipocyte infiltration - infiltration of fat cells within tumor tissue; irregular distribution
+32. Hormone receptor expression - low or negative estrogen/progesterone receptor expression; weak staining
+33. Collagen deposition - increased collagen content; disorganized collagen fiber arrangement
+34. Tumor-associated macrophages - few or low-density macrophages; sporadic distribution
+35. Perineural invasion - tumor cells surrounding nerve structures; infrequent occurrences
+36. Tumor-infiltrating lymphocytes (TILs) subsets - low presence of TIL subsets like CD8+ T-cells, CD4+ T-cells, or regulatory T-cells; weak immune response
+37. Peritumoral fibroblasts - presence of fibroblasts surrounding tumor tissue; varied density
+38. Cellular adhesion molecules - low expression of key adhesion molecules like E-cadherin and beta-catenin; uneven staining
+39. Basement membrane disruption - irregular or fragmented basement membrane; weak or absent staining
+40. Mast cell infiltration - low-density mast cells within tumor stroma; scattered distribution
+
+Please note that the presence of these factors in whole slide images may vary, as the histological appearance of breast cancer can be highly heterogeneous. Evaluating these features should always be done by a pathologist or experienced professional, and clinical correlation should be considered.

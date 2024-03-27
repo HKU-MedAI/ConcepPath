@@ -1,0 +1,66 @@
+1. Tumor size - small; well-defined edges
+2. Tumor shape - irregular; spiculated margins
+3. Tumor density - varying; heterogeneous
+4. Tumor location - peripheral; close to pleura
+5. Ground-glass opacities - hazy; non-obstructive
+6. Pleural indentation - inward curve; adjacent to tumor
+7. Vascular convergence - blood vessels towards tumor; prominent
+8. Bronchial distortion - displaced; luminal narrowing near tumor
+9. Interlobar fissures - thickened or retracted; adjacent to tumor
+10. Lymphadenopathy - enlarged nodes; irregular borders
+11. Nodule cavitation - air within tumor; thin or thick walls
+12. Satellite nodules - small; multiple within same lobe13. Calcifications - fine; coarse; diffuse; central
+14. Air bronchograms - dark branching structures within tumor; uninterrupted
+15. Cystic spaces - round well-defined areas; low-density within tumor
+16. Interlobular septal thickening - increased width; lines between lobules
+17. Consolidation - region of increased attenuation; obscuring vasculature or bronchi
+18. Halo sign - ground-glass opacity surrounding nodule; indication of hemorrhage
+19. Stippled appearance - irregular or discontinuous nodules; varying sizes
+20. Specular reflection - bright spots; representing tiny air spaces within tumor
+21. Pleural effusion - accumulation of fluid; adjacent to pleural surfaces
+22. Pleural thickening - increased width of pleura; irregular or smooth
+23. Visceral pleural invasion - tumor invading pleura; increased thickness; distorted contour
+24. Mediastinal shift - displacement of mediastinal structures; due to large mass
+25. Atelectasis - focal or extensive collapse of lung parenchyma; adjacent to tumor
+26. Tumor abutting fissure - involvement of interlobar fissure; tumor mass on both sides27. Fissure displacement - shift in fissure position; stretched or compressed due to tumor growth
+28. Honeycombing - small cystic airspaces; clustered honeycomb pattern
+29. Computed Tomography (CT) attenuation values - Hounsfield Units (HU); attenuation of mass(es)
+30. Peritumoral inflammation - signs of inflammation surrounding the tumor; increased opacity
+31. Obstructive pneumonitis - areas of increased lung density; blocked airways near tumor
+32. Bubble-like lucencies - air spaces within tumor; irregular or varying size
+33. Mosaic attenuation - patchy regions of varying densities; due to air trapping or small airway obstruction
+34. Tree-in-bud sign - branching centrilobular nodules; resembling budding tree limbs
+35. Fibrotic bands - linear opacities in lung parenchyma; originating from pleura
+36. Confluence - merging of tumors or nodules; forming larger or complex shaped mass(es)
+37. Pleural nodules - small lesions on the pleural surface; irregular or smooth
+38. Lung scarring - presence of fibrosis; irregular or linear opacities
+39. Pseudocavitation - low-density focal areas within tumor; not true cavities
+40. Pleural retraction - inward pulling of the pleura; associated with fibrosis or tumor invasion41. Post-obstructive pneumonia - infected lung areas; increased lung density; caused by airway blockage due to tumor
+42. Perifissural nodules - lesions in proximity to fissures; round or oval shape
+43. Endobronchial tumour - tumor within bronchial lumen; airway obstruction or narrowing visible
+44. Peritumoral vascular proliferation - increased blood vessels surrounding the tumor; dense network
+45. Crazy-paving pattern - ground-glass opacities with superimposed interlobular septal thickening; resembling paved stones
+46. Calcified granulomas - benign nodule with central calcification; well-defined edges
+47. Vascular encasement - tumor surrounding blood vessels; could be seen as invasion or compression
+48. Hilar mass - tumor located near hilum; bronchial or vascular structures obstructed
+49. Extravasation - leaking contrast material outside local vasculature; could represent vessel invasion or rupture
+50. Air crescent sign - crescent-shaped air around a mass or nodule; caused by cavitation or necrosis
+51. Tumor-in-tumor appearance - a well-defined smaller nodule within the primary tumor; may represent a benign nodule or unrelated pathology
+52. Peribronchovascular interstitial thickening - increased density surrounding bronchovascular bundles; potential lymphatic spread
+53. Architectural distortion - altered lung parenchyma; evident by irregular linear opacities or fibrotic changes
+54. Skip metastasis - lymph node metastasis bypassing expected drainage patterns; could indicate aggressive disease
+55. Intratumoral fat - low-density adipose tissue within the tumor; sign of a specific tumor subtype56. Feeding vessel sign - blood vessels leading directly to the tumor; may indicate angiogenesis
+57. Pedicle sign - a distinct stalk connecting the primary tumor to the pleura; potential indicator of tumor attachment or invasion
+58. Subpleural curvilinear line - a thin curvilinear opacity near the pleural surface; may indicate fibrosis or inflammation
+59. Empyema - accumulation of pus in the pleural space; an indirect sign of infection associated with lung cancer
+60. Bullae formation - large air-filled cystic spaces; adjacent to tumor or within lung parenchyma
+61. Tracheal deviation - displacement or narrowing of the trachea; caused by mass effect or mediastinal shift from tumor growth
+62. Lobar collapse - complete or partial collapse of a lung lobe; due to tumor obstructing bronchus or bronchioles
+63. Necrosis - areas of non-enhancement within the tumor; indicative of aggressive or advanced cancer
+64. Lymphatic invasion - tumor cells found within lymphatic channels; may represent early metastasis
+65. Metastatic lung nodules - multiple secondary lesions in common lung cancer metastasis patterns; distinct from primary tumor
+66. Obscured mediastinal fat planes - loss of clear demarcation between mediastinal structures; potential infiltration by tumor
+67. Subcarinal lymphadenopathy - enlarged lymph nodes near the subcarinal region; irregular or rounded
+68. Chest wall invasion - tumor breaching the pleura and chest wall; associated with rib destruction or chest muscle invasion
+69. Hilar lymph nodes calcification - granular or punctate calcification; may represent a previous infection or healing response
+70. Palisading granulomas - parallel arrangement of inflammatory cells; may be seen in granulomatous diseases that could mimic lung cancer

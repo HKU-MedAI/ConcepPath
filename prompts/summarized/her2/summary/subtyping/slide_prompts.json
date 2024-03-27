@@ -1,0 +1,5 @@
+{
+    "Positive": "Heterogeneous tissue appearance; Strong, uniform membrane staining for HER2; Dense cellular packing; Disrupted tissue architecture; Increased angiogenesis; High mitotic activity; Peritumoral edema and inflammation; Possible necrotic regions.",
+    "Negative": "Lack of intense HER2 membrane staining; Organized architecture with tubular/glandular structures; Positive nuclear staining for hormone receptors in luminal subtypes; Absence of ER, PgR, HER2 staining in triple-negative subtype; Less pleomorphism and mitotic figures in luminal subtypes; More prominent stromal component; Variable inflammatory response; Potentially less vascularity compared to HER2-positive tumors.",
+    "Equivocal": "Weak/moderate incomplete membrane staining; Staining variability within tumor cell population; Mixed cellular architecture; Uncertain hormone receptor status without specific staining; Potential FISH testing areas indicated; Variable mitotic figures and pleomorphism."
+}

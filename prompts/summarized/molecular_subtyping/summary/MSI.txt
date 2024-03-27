@@ -1,0 +1,101 @@
+1. Tumor-Infiltrating Lymphocytes (TILs): 
+A high density of TILs is a common histological feature in tumors with high neoantigen loads. These immune cells infiltrate the tumor tissue in response to the presence of neoantigens that the tumor cells present.
+dMMR tumors typically exhibit a prominent lymphocytic response. There is often a high density of TILs within the tumor, reflecting an immune response to the large number of neoantigens produced by these tumors.
+
+2. Medullary Growth Pattern: 
+This is a type of growth pattern seen in some carcinomas, particularly colorectal, which is associated with MSI-H status and a high neoantigen load. Medullary tumors are usually poorly differentiated with a syncytial growth pattern and contain abundant intraepithelial lymphocytes.
+Some dMMR tumors, particularly in colorectal cancer, can display a medullary growth pattern, which is characterized by poorly differentiated, solid sheets of cells with associated intraepithelial lymphocytes.
+
+3. Crohn's-like Lymphoid Reaction: 
+The presence of dense lymphoid aggregates at the tumor margin is another indicator of a robust immune response against neoantigens produced by the tumor.
+dMMR tumors may also show a Crohn's-like reaction, which refers to the presence of dense lymphoid aggregates at the tumor margins.
+
+4. Pushing (Expansile) Margins: 
+Instead of infiltrative borders, tumors with high levels of neoantigens may show a more expansive growth pattern with pushing borders, which may be due to the immune system's efforts to contain the tumor.
+The growth pattern of dMMR tumors can be more expansive with a pushing border, rather than an infiltrative margin seen in microsatellite stable (MSS) tumors.
+
+5. Varied Tumor Gland Morphology: 
+dMMR tumors may display a heterogeneous morphology with varied gland shapes and sizes, often with poor differentiation.
+
+6. Necrosis and Dirty Necrosis: 
+Tumors with high neoantigen loads may have areas of necrosis, which can result from the cytotoxic effects of an active immune response within the tumor.
+Areas of tumor necrosis, including the characteristic 'dirty necrosis' which includes debris and nuclear dust, may be more common in dMMR tumors.
+
+7. Increased Mitotic Activity: 
+These tumors may also show high mitotic rates due to the rapid proliferation of the tumor cells.
+
+8. Immune Cell Infiltration: 
+The presence of a significant number of immune cells, particularly lymphocytes, infiltrating the tumor tissue.
+
+9. PD-L1 Staining: 
+Through immunohistochemistry (IHC), PD-L1 protein expression can be visualized on the surface of cells within the tumor microenvironment. PD-L1 positive cells can include both tumor cells and immune cells, such as T cells.
+
+10. Pattern of Infiltration: 
+vigorous immune infiltrate, The distribution of PD-L1 positive cells can vary; they may be found at the invasive margins of the tumor or within the tumor nests themselves. A 'brisk' pattern of infiltration is often described when there is a band of T cells at the tumor margin, while a 'non-brisk' pattern may show scattered T cells throughout the tumor.
+
+11. Tumor Architecture Disruption: 
+The infiltrating T cells may cause disruption of the tumor architecture, leading to areas where the normal structure of the tumor is replaced by immune cells.
+
+12. Checkpoint Molecules: 
+Besides PD-L1, other checkpoint molecules like PD-1 may also be present on the infiltrating T cells, indicating an adaptive immune resistance mechanism by the tumor.
+
+13. Mucinous/Colloid Histology: 
+There can be an abundance of extracellular mucin production in MSI-H tumors.
+
+14. Signet Ring Cell Features: 
+The presence of signet ring cells, which are cells filled with mucin pushing the nucleus to the periphery, can be indicative of MSI-H, particularly in gastric cancer.
+
+15. Varied Glandular Architecture: 
+The architecture of MSI-H tumors can be disorganized, with irregular gland formation and varied gland sizes.
+
+16. Well differentiation:
+less lymphatic and venous invasion, and less lymph-node metastasis compared to MSS (Microsatellite Stable) tumors.
+
+17. Elevated Mutation Rate:
+PIK3CA, ERBB3, ERBB2, and EGFR, Tumor cells may display significant variability in size and shape (pleomorphism), which indicates genetic instability and could be the result of mutations in oncogenes and tumor suppressor genes. 
+
+18. Less Lymphatic and Venous Invasion: 
+MSI-H gastric cancers tend to show less lymphatic and venous invasion compared to microsatellite stable (MSS) tumors.
+
+19. Less Lymph Node Metastasis: 
+These tumors also tend to have less lymph node metastasis, which is indicative of a potentially less aggressive behavior.
+
+21. MLH1 silencing:
+When MLH1 is silenced due to promoter hypermethylation, the MLH1-PMS2 complex cannot form effectively. This leads to a failure to repair errors in microsatellite regions of DNA, which are short, repeated sequences prone to replication errors.
+The high mutation rate caused by MMR deficiency can lead to changes in oncogenes and tumor suppressor genes, contributing to the development and progression of cancer. Additionally, the unique mutation profile of MSI-H tumors often makes them more immunogenic, which means they are more likely to be recognized and targeted by the immune system.
+
+22. hypermethylation of CpG islands:
+CpG islands are regions rich in cytosine and guanine dinucleotide repeats. When these regions become hypermethylated, particularly in gene promoters, it can lead to the silencing of gene expression. In the case of GC, hypermethylation often occurs in the promoters of genes involved in the DNA mismatch repair system, such as MLH1.
+
+23. Lower Frequency of Lymphovascular Invasion: 
+Histological evidence of less frequent lymphatic and venous invasion compared to MSS tumors.
+
+24. Reduced Lymph Node Metastasis: 
+A decreased incidence of metastasis to regional lymph nodes relative to MSS gastric cancers.
+
+25. Mucinous Differentiation: 
+An increased production of mucin and presence of mucinous features within the tumor cells or the tumor stroma.
+
+26. Increased Frequency of Somatic Mutations:
+High frequency of somatic mutations, particularly in MMR genes and genes like ARID1A, RNF43, GNAS, KMT2B, PIK3CA, POLE, AXIN2, and SMARCA4.
+
+27. Fewer Structural Genomic Alterations:
+It is noted that copy number variations (CNVs) were scarcely observed in MSI-H tumors. This suggests that MSI-H tumors have fewer structural genomic alterations compared to MSS tumors.
+The gene alterations in MSS tumors were found to be imbalanced between the right side and left side, with left-sided tumors having higher levels of TP53 mutations and right-sided tumors exhibiting higher levels of KRAS and CTNNB1 mutations.
+
+28. Absence of KRAS Mutations: 
+KRAS is a gene that plays a critical role in cell signaling pathways that control cell proliferation, differentiation, and survival. Mutations in KRAS can lead to uncontrolled cell growth and are common in various types of cancer, including colorectal cancer. However, in MSI-H gastric cancer, KRAS mutations are less common. This suggests that the MSI-H subtype of gastric cancer may develop and progress through different pathways that do not primarily involve KRAS signaling.
+
+29. Absence of ERBB2 Mutations: 
+ERBB2 (also known as HER2/neu) is a member of the epidermal growth factor receptor (EGFR) family. Amplifications or overexpression of ERBB2 are seen in a subset of gastric cancers and are associated with a more aggressive disease course. The absence of ERBB2 mutations in MSI gastric cancer implies that this pathway is not a key driver in the pathogenesis of this subtype. MSI-H gastric cancers may rely more on the dysfunction of the mismatch repair system and the subsequent accumulation of mutations.
+
+
+SLIDE_LEVEL:
+Prominent immune reaction - Typically, there is a dense infiltration of lymphocytes within the tumor and at the tumor margin. This may appear as clusters of small, darkly stained cells (lymphocytes) among the cancer cells.
+Medullary growth pattern - The tumor may display a solid growth pattern with sheets or nests of cancer cells that appear to be pushing into the surrounding tissues without an infiltrative border.
+Crohn's-like lymphoid reaction - MSI GC often has a pronounced lymphoid reaction at the periphery of the tumor, resembling the features of Crohn's disease with aggregates of lymphoid cells.
+Expansile, pushing margins - The border of the tumor may appear to compress the surrounding tissue rather than infiltrating it, giving a 'pushing' appearance.
+Varied glandular architecture - The glands may show a wide range of sizes and shapes, with some being much larger or irregular compared to normal gastric glands.
+Mucinous differentiation - Areas of the tumor may appear more 'glassy' due to the presence of mucin, a gel-like substance produced by mucinous cells.
+High mutational burden - Although not directly observable on a histological slide, the high mutational burden characteristic of MSI may indirectly manifest as morphological heterogeneity.
+Absence of widespread metastatic disease - The slide may show less evidence of lymph node involvement or distant metastases, which are less common in MSI GC compared to other types.

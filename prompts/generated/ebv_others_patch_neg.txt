@@ -1,0 +1,91 @@
+Intrinsic factor - Atrophic gastric glands: reduced quantity or missing gland tissue; irregular glandular structures; thinning of the gastric mucosa.
+
+Helicobacter pylori (H. pylori) infection - Bacterial colonization: clusters of small, spiral-shaped bacteria present in the gastric mucosa; chronic inflammation marked by increased leukocyte infiltration.
+
+Intestinal metaplasia - Goblet cell presence: elongated, binucleated cells; mucin-producing cells within the gastric glands; intestinal epithelium with brush border alongside gastric mucosa.
+
+Dysplasia - Abnormal cell morphology: variation in cell and nuclear size; irregular nuclear shape; increased nuclear-to-cytoplasmic ratio; disorganized glandular architecture; increased mitotic activity; loss of cellular polarity.
+
+Tumor infiltration - Invasive cancer cells: irregularly shaped, pleomorphic cells infiltrating the underlying tissue layers; marked desmoplastic stromal reaction; inflammation and angiogenesis around the tumor cells.
+
+Poor cell differentiation - Poorly formed glandular structures: decreased or absent gland formation; indistinct cell borders; high tumor cellularity with overlapping cell nuclei; necrosis and apoptotic bodies.
+
+Signet-ring cell carcinoma - Signet-ring cells: large, round or oval cells with a crescent-shaped nucleus pushed toward the cell periphery by a prominent mucin vacuole; diffuse growth pattern within the gastric wall.
+
+Lymphovascular invasion - Tumor cells within the lymphatic channels: visible cancer cells within the lymphatic vessels or vascular structures; endothelial-lined spaces with tumor emboli.
+
+Perineural invasion - Tumor cells around nerve bundles: encircling of tumor cells around nerve structures; disrupting nerve fibers with accompanying inflammation and fibrosis.Tumor budding - Small clusters of cancer cells: single or groups of less than five cancer cells located at the tumor invasive front; detachment from the main tumor mass; associated with aggressive tumor behavior.
+
+Mucinous carcinoma - Extracellular mucin pools: extracellular mucinous lakes comprising at least 50% of the tumor area; formation of gland-like structures; cancer cells floating within the mucin pools.
+
+Gastric adenocarcinoma - Abnormal gland formation: irregularly shaped, enlarged, and tortuous glandular structures; malignant epithelial cells with eosinophilic or clear cytoplasm; vesicular nuclei and prominent nucleoli.
+
+HER2 overexpression - Elevated human epidermal growth factor receptor 2: intense membrane staining visible on immunohistochemistry slides; correlated with a more aggressive tumor behavior and targeted therapy options.
+
+Microsatellite instability (MSI) - DNA mismatch repair deficiency: visible as genetic hypermutation on molecular testing; associated with a better prognosis and a distinct immune response.
+
+PD-L1 expression - Programmed death-ligand 1 upregulation: positive staining of immune or tumor cells on immunohistochemistry; correlated with an enhanced adaptive immune resistance and a potential target for immunotherapy.
+
+High stromal content - Dense fibrovascular connective tissue: increased deposition of extracellular matrix components; prominent fibroblast infiltration; desmoplastic reaction around the tumor cells.
+
+Antral G-cell hyperplasia - Increased G-cell number: expansion of gastrin-producing G-cells within the antral gastric glands; correlated with an increased risk of gastric cancer development due to elevated gastrin levels.
+
+Parietal cell hyperplasia - Proliferation of parietal cells: increased number of acid-secreting parietal cells within the gastric glands; correlated with increased risk of gastric cancer due to prolonged exposure to gastric acid.Tumor-infiltrating lymphocytes (TILs) - Immune cell infiltration: large number of lymphocytes present within the tumor and/or stromal tissue; can be a positive prognostic factor and an indicator of response to immunotherapy.
+
+Tumor-associated macrophages (TAMs) - Macrophage presence: increased number of macrophages within the tumor stroma and/or at the tumor invasive front; polarized into pro-tumor (M2-like) or anti-tumor (M1-like) subpopulations; related to a complex role in cancer progression and therapy response.
+
+Tumor-associated neutrophils (TANs) - Neutrophil infiltration: an increased number of neutrophils within the tumor mass and/or at the invasive front; associated with complex interactions with tumor cells, lymphocytes, and macrophages; potential marker for inflammatory response and prognosis.
+
+E-cadherin loss - Reduced cellular adhesion: decrease or loss of membranous E-cadherin staining, often visible in mismatched cellular cohesion and disordered arrangement of cells; associated with invasive potential and poor prognosis.
+
+Ki-67 expression - Proliferation marker: nuclear staining by immunohistochemistry, reflecting high cell proliferation index; associated with aggressive tumor behavior, metastasis, and poor prognosis.
+
+Fibroblast activation protein (FAP) expression - Activated fibroblasts: FAP-positive stromal fibroblasts in the tumor stroma; related to fibroblast activation and ECM remodeling; possible therapeutic target.
+
+Podoplanin-positive cancer-associated fibroblasts (CAFs) - CAF marker: podoplanin-positive stromal cells between tumor cells; indicative of activated myofibroblast phenotype; associated with lymphatic vessel development, tumor invasion, and poor prognosis.
+
+Angiogenesis - New blood vessel formation: increased neovascularization and microvessel density within the tumor or at the periphery of the cancerous tissue; related to tumor nourishment, growth, and metastasis.
+
+Eosinophil infiltration - Eosinophil-rich tumor stroma: an increased number of eosinophils within the tumor or at the invasive front, closely associated with the anti-tumor immune response.
+
+It is important to note that the presence or degree of these factors in primary tumor whole slide images can vary greatly depending on multiple factors, such as tumor stage, grades, and molecular characteristics. Individual patient factors can also influence the manifestation of these factors in tumor histology. Collaboration with a pathologist or specialized software can be crucial in identifying and interpreting these image features accurately.Matrix metalloproteinase (MMP) expression - ECM degradation enzymes: increased expression and activity of MMPs in tumor cells or stromal cells; associated with extracellular matrix degradation, tumor invasion, and metastasis.
+
+Cancer stem cell markers - Presence of stem-like cells: expression of specific markers like CD133 or LGR5 on a subpopulation of tumor cells; related to self-renewal, differentiation potential, and therapy resistance.
+
+Tumor necrosis - Necrotic tumor areas: visible areas of necrotic cell death within the tumor mass; often associated with rapid tumor growth, hypoxia, and poor prognosis.
+
+Tumor-associated adipocytes - Lipid-filled cells surrounding the tumor: clusters of lipid-filled adipocytes closely associated with the tumor mass, particularly in the invasive front; contributing to tumor progression, inflammation, and therapy resistance.
+
+Nuclear Pleomorphism - Varied nuclear size and shape: increased heterogeneity in nuclear size, shape, and chromatin staining; associated with the degree of malignancy and tumor aggressiveness.
+
+Mitotic Figures - Cells undergoing mitosis: presence of cells with visible chromosomes and spindle fibers in the process of cell division; indicative of increased tumor cell proliferation and potential aggressiveness.
+
+Amyloid deposition - Extracellular protein deposits: areas with eosinophilic, acellular protein accumulations within the stroma; often seen in association with certain cancer types and contributing to the altered tumor microenvironment.
+
+Nerve plexus invasion - Tumor cells invading nerve structures: presence of malignant cells infiltrating clusters of nerves or ganglia in the gastric wall; associated with more advanced disease and risk of recurrence.
+
+Somatostatin-producing neuroendocrine cells - Presence of D-cells: increased numbers of somatostatin-producing cells within the tumor tissue; important in neoplastic and preneoplastic gastritis and could serve as a target for anti-tumor therapy.
+
+Phosphatase and tensin homolog (PTEN) loss - Tumor suppressor deficiency: decreased or absent PTEN expression in tumor cells visible on immunohistochemistry; associated with PI3K pathway activation, tumor progression, and therapy resistance.
+
+Remember that interpreting primary tumor whole slide images requires extensive knowledge, expertise, and often collaboration with pathologists or specialized software. The presence and degree of these factors may vary greatly depending on various aspects of the tumor and patient characteristics.Cytokeratins expression - Intermediate filament proteins: immunohistochemical staining for specific cytokeratins, such as CK7 and CK20, to determine the cell type origin and histological subtype of the tumor; related to tumor classification and potential treatment strategies.
+
+Estrogen receptor (ER) and progesterone receptor (PR) status - Hormone receptor expression: immunohistochemical staining of tumor cells for ER and PR, indicating hormone responsiveness and potential therapy targets; although relatively rare in gastric cancer, may have important implications for certain patients.
+
+Intratumoral heterogeneity - Cellular and microscopic diversity: presence of varied morphological, immunohistochemical, and architectural features within different areas of the same tumor; associated with treatment resistance, hidden subclonal populations, and potential metastatic potential.
+
+Myenteric plexus alterations - Nerve structure changes: visible alterations in the myenteric plexus organization, including increased nerve fascicles or presence of tumor cells infiltrating the plexus; associated with tumor growth, invasion, and potential recurrence.
+
+Tumor-associated fibrosis - Excessive collagen accumulation: areas of increased collagen deposition surrounding the tumor mass and fibroblast infiltration, indicative of extracellular matrix remodeling and an altered tumor microenvironment.
+
+Alcian blue staining - Mucin detection: Alcian blue-positive areas within the tumor indicating the presence of acidic mucins; assisting in the classification of specific gastric tumor subtypes and differentiation of normal gastric tissue.
+
+Vimentin expression - Mesenchymal marker: positive immunohistochemical staining for vimentin in tumor cells, indicating a potential epithelial-to-mesenchymal transition (EMT) and increased invasive potential.
+
+Endocrine cell infiltration - Neuroendocrine cell presence: increased number of neuroendocrine cells within the tumor tissue, often identified using markers like chromogranin A and synaptophysin; potentially indicative of a mixed adenoneuroendocrine carcinoma.
+
+Granulocyte colony-stimulating factor (G-CSF) expression - Growth factor production: elevated levels of G-CSF or its receptor in tumor or stromal cells, possibly promoting granulocyte proliferation, tumor growth, and angiogenesis.
+
+Immune checkpoint molecules - Expression of inhibitory molecules: upregulation of CTLA-4, PD-1, or LAG-3 on tumor-infiltrating lymphocytes or tumor cells, reflecting a potential modulatory effect on the anti-tumor immune response and representing possible targets for immunotherapy.
+
+It is crucial to understand that interpretation of primary tumor whole slide images demands extensive expertise, training, and often, collaboration with experienced pathologists or specialized software. The presence and significance of these factors may vary greatly depending on the specific tumor and patient characteristics.

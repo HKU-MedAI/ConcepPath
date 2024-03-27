@@ -1,0 +1,116 @@
+1. Keratinization and Intercellular Bridges:
+LUSC is characterized by the presence of squamous differentiation, which includes keratin production leading to the formation of keratin pearls, and intercellular bridges between tumor cells.
+
+2. Intraepithelial Tumor Growth:
+Squamous cell carcinomas often show intraepithelial growth, with tumor cells spreading within the existing epithelial structures.
+
+3. Cell Morphology:
+The tumor cells in LUSC are generally more polygonal with abundant eosinophilic cytoplasm due to keratin content.
+
+4. Nuclear Characteristics:
+The nuclei in LUSC tend to be hyperchromatic with prominent nucleoli, and the degree of pleomorphism can be variable.
+
+5. Desmoplastic Stroma:
+LUSC frequently induces a reactive stromal response, resulting in a dense fibrous stroma surrounding the tumor cells.
+
+6. Cavitation: 
+Squamous cell carcinomas may cavitate more often than adenocarcinomas, which can be observed as a central area of necrosis within the tumor on imaging.
+
+7. Endobronchial Growth: 
+LUSCs may exhibit endobronchial growth that can be visible during bronchoscopy as a growth within the lumen of a bronchus.
+
+8. Density of Inflammatory Cells: 
+Histological sections of LUSC might show a high density of inflammatory cells within the tumor microenvironment (TME). These cells can include lymphocytes, macrophages, dendritic cells, and neutrophils.
+
+9. Tumor-Associated Lymphocytes: 
+The presence of TILs, which are lymphocytes located in and around the tumor tissue, is a strong indicator of immune cell infiltration. TILs are predominantly T cells, including both CD8+ cytotoxic T cells and CD4+ helper T cells. The presence of CD8+ T cells, in particular, can be a favorable prognostic marker as they can directly kill tumor cells.
+
+10. Immune Cell Clusters: 
+Clusters of immune cells, especially at the invasive margin of the tumor (the border between the tumor and adjacent normal tissue), suggest active immune surveillance. These clusters might consist of B cells forming tertiary lymphoid structures, which can resemble lymph nodes in organization.
+
+11. Expression of Immune Checkpoint Proteins: 
+An increased expression of immune checkpoint proteins such as PD-L1 on tumor cells or immune cells within the tumor microenvironment can be visualized using specific antibodies. This overexpression is often associated with an altered immunological pathway known as immune checkpoint activation, which tumors exploit to evade immune surveillance.
+
+12. Distribution Pattern: 
+The pattern of immune cell distribution can be informative. A diffuse infiltration throughout the tumor is generally considered more favorable than a marginal or patchy distribution.
+
+13. Immune Cell Morphology: 
+Under the microscope, activated immune cells may have distinct morphological features such as larger nuclei, visible nucleoli, and abundant cytoplasm when compared to their non-activated counterparts.
+
+14. Granzyme B and Perforin Expression: 
+The expression of cytotoxic proteins such as granzyme B and perforin can be visualized by IHC and indicates the presence of active cytotoxic T cells.
+
+15. FOXP3+ Regulatory T Cells: 
+The presence of FOXP3+ regulatory T cells (Tregs) can be a double-edged sword; while they are a sign of immune response, they can also suppress the anti-tumor immune response. A high ratio of CD8+ T cells to FOXP3+ Tregs is typically a favorable prognostic indicator.
+
+16. Immune Cell Polarization: 
+Certain markers can indicate the polarization of macrophages (M1 vs. M2), which can have different implications for tumor progression and the immune response.
+
+17. Tumor-Associated Macrophage Phenotypes: 
+IHC can reveal M1 (pro-inflammatory) versus M2 (anti-inflammatory and tissue repair) macrophage phenotypes through specific markers (e.g., iNOS for M1, CD163 for M2). An increased number of M2 macrophages may indicate an immunosuppressive environment.
+
+18. Cytokine and Chemokine Levels: 
+The presence of certain cytokines and chemokines can be detected by IHC and can indicate altered immunological pathways. For example, high levels of IL-6 or TGF-beta can suggest a pro-tumorigenic, immunosuppressive microenvironment.
+
+19. T-Cell Exhaustion Markers: 
+T-cell exhaustion, a state of T-cell dysfunction, can be identified by the expression of multiple inhibitory receptors like PD-1, CTLA-4, LAG-3, and TIM-3 on CD8+ T cells. This indicates an altered immune pathway where the T cells are no longer fully functional in attacking tumor cells.
+
+20. Regulatory T Cells (Tregs): 
+The presence of Tregs, identified by FOXP3 staining, can indicate an immunosuppressive environment that promotes tumor growth and inhibits effective antitumor immune responses.
+
+21. Granzyme B and Perforin: 
+The detection of cytotoxic proteins such as granzyme B and perforin in CD8+ T cells suggests an active cytotoxic immune response. A lack of these markers might indicate an ineffective immune response.
+
+22. Tertiary Lymphoid Structures: 
+The presence of TLS within or adjacent to the tumor can be identified by IHC and suggests an ongoing immune response. These structures are composed of B and T cells and are similar to lymph nodes in structure and function.
+
+23. Necrosis and Apoptosis: 
+Areas of necrosis and apoptosis may be surrounded by immune cells, which could indicate an ongoing anti-tumor immune response.
+
+24. Stromal Changes: 
+Changes in the tumor stroma, including fibrosis and the presence of immune cells, can be evaluated with IHC and may be indicative of altered immune pathways.
+
+25. High Number Leukocytes and Platelets:
+IHC can reveal a high density of leukocytes in both the tumor parenchyma and the stroma. Leukocytes can appear as small, round cells with a high nucleus-to-cytoplasm ratio, often congregating around tumor areas.
+Leukocytes may exhibit a diffuse infiltration throughout the tumor, or they may be localized in clusters, often forming tertiary lymphoid structures.
+
+26. High Ki-67 Index: 
+Ki-67 is a nuclear protein associated with cellular proliferation. A high Ki-67 labeling index, indicating a large proportion of tumor cells in the active phases of the cell cycle, is often correlated with high-grade tumors and a poor prognosis.
+
+27. p53 Overexpression: 
+Mutation of the TP53 gene, which encodes the p53 tumor suppressor protein, is common in many cancers, including LUSC. Overexpression of mutant p53 protein detected by IHC can be indicative of a higher grade tumor.
+
+28. Increased Cellular and Nuclear Pleomorphism: 
+Higher malignancy may be indicated by increased variability in cell and nuclear size and shape, which IHC can highlight by staining the nuclei.
+
+29. High Mitotic Rate: 
+A high number of mitotic figures, which can be visualized by antibodies targeting mitotic markers, suggests rapid tumor cell proliferation.
+
+30. Loss of Differentiation Markers: 
+Loss of expression of differentiation markers, which can be assessed by IHC, may indicate a less differentiated and more aggressive tumor.
+
+31. Vascular and Lymphatic Invasion: 
+The presence of tumor cells within blood vessels or lymphatics, which can be detected with endothelial cell markers like CD31 for blood vessels and podoplanin (D2-40) for lymphatics, suggests a higher potential for metastasis.
+
+32. Overexpression of Growth Factor Receptors: 
+IHC detection of high levels of growth factor receptors, such as EGFR (epidermal growth factor receptor) or VEGFR (vascular endothelial growth factor receptor), can be associated with more aggressive cancer behavior.
+
+33. Invasion Depth: 
+A deeper invasion into surrounding tissues, which can be assessed by IHC staining of tumor and stromal boundaries, might indicate a higher grade tumor.
+
+34. Tumor Budding: 
+The presence of tumor budding, small clusters of cells or individual cells at the invasive front of the tumor, is a histological feature associated with aggressive behavior and can be highlighted with cytokeratin stains.
+
+35. Reduced Expression of Cell Adhesion Molecules: 
+such as E-cadherin, detected by IHC, can be indicative of epithelial-mesenchymal transition (EMT), a process associated with increased tumor invasiveness and metastatic potential.
+
+36. Expression of Metastasis-Related Proteins: 
+Upregulation of proteins like N-cadherin and vimentin, which are involved in EMT and cell migration, can be detected by IHC and may be associated with a more malignant phenotype.
+
+37. CDKN1A Protein Overexpression
+Nuclear Staining, CDKN1A (p21) is a nuclear protein, so an increase in its expression would be indicated by stronger nuclear staining in tumor cells when using a p21-specific antibody.
+
+38. SOX2 Protein Overexpression
+Since SOX2 is a transcription factor, it will be localized in the nucleus. Upregulated SOX2 would result in more intense nuclear staining within the tumor cells.
+The intensity of SOX2 staining might be particularly notable at the invasive edges of the tumor, where cancer stem-like cells are believed to play a key role in invasion and metastasis.
+

@@ -1,0 +1,77 @@
+HER2 Low Expression:
+For IHC 1+, you might see faint/barely perceptible membrane staining in more than 10% of tumor cells. For IHC 2+, there would be weak to moderate complete membrane staining observed in more than 10% of tumor cells or strong complete membrane staining in less than 10% of the cells.
+
+HER2 Ultra-Low Expression:
+For IHC 0 (ultra-low), there would be no staining observed, or faint staining is present in less than 10% of the tumor cells.
+
+IHC Score 2+: 
+Complete but moderate membrane staining in more than 10% of tumor cells, or intense membrane staining in less than 10% of tumor cells.
+
+Heterogeneity: 
+Areas within the same tumor might show different levels of HER2 expression, which can make it challenging to determine the overall HER2 status.
+
+Borderline Staining: 
+The staining intensity and completeness might be just at the threshold, making it difficult to distinguish between a negative and a positive result without additional testing.
+
+Identified Invasive Tumor:
+An invasive tumor in breast cancer is one that has spread into surrounding breast tissues, potentially leading to a worse prognosis compared to in situ tumors, which remain confined to the ducts or lobules.
+
+Incomplete Membrane Staining:
+This could be faint or weak staining that is present in more than 10% of tumor cells, which might be difficult to interpret as positive or negative without further gene amplification testing.
+
+Variable Staining Intensity: 
+The staining may appear uneven across different areas of the tumor, with some regions showing stronger staining than others.
+
+Estrogen Receptor:
+Positive staining would be observed in the nuclei of tumor cells, which is indicative of ER-positive status. The staining intensity can vary from weak to strong and should be present in more than 1% of tumor cells to be considered positive.
+
+MutL Proteins:
+In a MutL-deficient tumor, there would be a complete absence or markedly reduced nuclear staining for one or more of the MutL proteins (MLH1, PMS2, MSH2, or MSH6) in tumor cells, while the surrounding non-tumor cells (such as stromal and lymphoid cells) would show normal staining. This pattern serves as an internal control for the IHC test.
+
+Presence of MMR Proteins:
+Positive staining in the nucleus of the tumor cells, indicating that the MMR system is intact. The intensity of the staining can vary, but typically it should be homogeneous and similar to the staining of the surrounding non-tumor cells, which serve as an internal control.
+
+Deficiency of MMR Proteins:
+Negative staining or complete absence of staining in the nucleus of the tumor cells, while non-tumor cells (such as stromal or inflammatory cells) exhibit positive staining. This pattern indicates a potential MMR deficiency. For each MMR protein, a separate IHC stain is typically performed.
+
+Progesterone Receptor (PR) Positive:
+Similar to ER, PR also shows nuclear staining. PR status is considered positive when there is staining in more than 1% of tumor cells. Staining for PR can be weaker and less frequent than for ER, as PR expression is often downregulated in more aggressive tumors. 
+
+Estrogen Receptor (ER) Positive:
+Nuclear staining in more than 1% of the tumor cells. The staining is evaluated for intensity (weak, moderate, or strong) and proportion (percentage of positive cells). The staining is typically homogenous across the cancer cells, but it can also be heterogeneous, especially in tumors with mixed populations of cells.
+
+Estrogen Receptor (ER) Negative:
+Absence of nuclear staining in tumor cells, or staining present in less than 1% of tumor cells. Non-tumor cells, such as normal breast tissue or stromal cells, might still show positive nuclear staining, serving as an internal control for the staining procedure.
+
+Progesterone Receptor (PR) Negative:
+Similar to ER, a PR-negative status means no nuclear staining is observed, or it is observed in less than 1% of the tumor cells. As with ER, the presence of positive staining in non-tumor cells acts as an internal control.
+
+Moderate ERBB2 Expression:
+Weak to moderate complete membrane staining observed in more than 10% of the tumor cells or strong complete membrane staining in less than 10% of the tumor cells.
+
+Ki-67 Expression:
+This is a nuclear protein that is associated with cell proliferation. In luminal breast cancers, Ki-67 staining can help differentiate between luminal A (lower Ki-67 expression) and luminal B (higher Ki-67 expression) subtypes. Staining for Ki-67 would also be nuclear, with a variable percentage of positive tumor cells. Luminal B would typically have a higher percentage of Ki-67 positive nuclei.
+
+Moderate Residual Cancer Burden (RCB):
+The staining is incomplete and weak/moderate in more than 10% of tumor cells or Complete and circumferential membrane staining that is intense and within 10-30% of the tumor cells.
+
+Moderate Modified Paget's (MP):
+the staining pattern is characterized by a moderate level of staining that is either incomplete and/or weak but with more than 10% of cells showing this staining, or complete membrane staining that is intense but only in 10-30% of tumor cells.
+
+Cytokeratin Stains: 
+IHC can be used to detect metastatic breast cancer cells in lymph nodes, often with stains for cytokeratins, which are proteins expressed in epithelial cells, including breast cancer cells. A pathologist would look for staining in the lymph node that is characteristic of epithelial cells, indicating the presence of cancer cells.
+
+Metastatic Focus: 
+On WSIs, metastatic foci in lymph nodes would appear as clusters of cells with different morphology from the normal lymphoid cells. They may be stained with IHC markers to highlight the cancer cells.
+
+Low Pathological Remission Rates:
+IHC staining would typically show moderate intensity staining of the cell membranes in more than 10% of the tumor cells or strong complete staining in 10-30% of tumor cells.
+
+Androgen Receptor (AR) Status:
+IHC staining for AR involves the use of an antibody that specifically binds to the AR protein in the tumor cell nuclei. A positive AR status is typically indicated by a strong nuclear staining in a significant proportion of the cancer cells (the exact percentage can vary by definition, but often more than 10% of cells exhibiting nuclear staining is considered positive).
+
+Moderate Tumor Proliferation:
+The proliferative activity of the tumor may not be as high as in HER2-positive tumors, but may still be higher than in HER2-negative tumors. A mixture of cells with complete membrane staining that is moderate in intensity.
+
+Moderate Tumor Grading:
+Moderate uniformity in staining, but with variability in intensity and completeness across the tumor population.

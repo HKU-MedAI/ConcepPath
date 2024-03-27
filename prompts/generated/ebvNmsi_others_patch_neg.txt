@@ -1,0 +1,76 @@
+1. Tumor size - larger tumors; increased heterogeneity; irregular outline
+2. Tumor growth pattern - infiltrative borders; nests or cords; isolated single cells
+3. Cellular diversity - high nuclear pleomorphism; atypical mitosis; varied nuclear size; increased nuclear-to-cytoplasmic ratio
+4. Tumor-infiltrating lymphocytes - abundant host immune cells; extensive infiltration
+5. Lymphovascular invasion - presence of tumor emboli; lumina of blood vessels; lymphatic channels containing tumor cells
+6. Tumor Budding - clusters of less than 5 cells; detached from the main tumor mass; at the invasive front
+7. Necrosis - loss of tissue architecture; pyknotic nuclei; karyorrhectic debris; ghost outlines of dead cells
+8. Fibrosis - increased collagen deposition; dense fibrous tissue surrounding tumor cells
+9. Gland formation - tubular or gland-like structures; dilated or slit-like lumina; mucin production
+10. Mucin pools - extracellular accumulation of mucin; glandular or signet ring morphologies11. Signet ring cells - large intracellular mucin vacuole; eccentrically displaced nucleus; cytoplasmic border concave
+12. Nuclear polymorphism - variation in nuclear shape, size, and staining; irregular nuclear contours
+13. Cytoplasmic features - abundance, color, and granularity; eosinophilic, basophilic, or clear cytoplasm
+14. Mitotic count - increased number of mitotic figures; atypical forms of mitosis
+15. Perineural invasion - tumor cells within the perineurium; presence in surrounding connective tissue; wrapping around nerves
+16. Desmoplasia - abundant stromal reaction; fibrosis with stromal cells; myofibroblast proliferation
+17. Tumor-associated macrophages - presence and distribution of macrophages; phenotype and interactions with tumor cells
+18. Immunochemistry - staining pattern of proteins; revealing specific genetic mutations and molecular pathways
+19. Epithelial-to-mesenchymal transition - loss of cell-cell adhesion; elongated cell morphology; involvement in invasion
+20. Inflammatory cells - leukocyte infiltration; neutrophils, lymphocytes, and plasma cells surrounding the tumor
+21. Dysplasia - architectural and cytologic atypia; increased stratification of cell layers; loss of polarity
+22. Microsatellite instability - alterations in DNA sequences; variations in chromosomal structure; cellular heterogeneity23. Angiogenesis - increased blood vessel formation; irregular branching; vessel dilation
+24. Matrix remodeling - changes in extracellular matrix; degradation or deposition; involvement of proteases and other enzymes
+25. Pseudopalisading necrosis - elongated cells arranged around necrotic cores; hypoxia-driven adaptation
+26. Tumor-stroma ratio - proportion of tumor cells to stromal tissue; high-density stroma associated with poor prognosis
+27. Apoptosis - cell shrinkage; chromatin condensation; apoptotic bodies
+28. Immune checkpoint expression - presence of checkpoint proteins (e.g., PD-L1, CTLA-4); inhibition of T-cell activity
+29. Stromal inflammation - infiltration of inflammatory cells into the stroma; mixed immune response
+30. Cellular senescence - enlarged cells with flattened morphology; persistent DNA damage response; altered gene expression
+31. Hypoxia - areas of poor oxygen supply; characterized by empty or poorly formed blood vessels
+32. High-grade tumor budding - high count of budding tumor nests; prognostic significance in aggressive cancer subtypes
+33. Oncogene expression - visualization and localization of overexpressed or mutated oncogenes; use of immunohistochemistry or in-situ hybridization
+34. Tumor heterogeneity - spatial and temporal variations in tumor cell characteristics; varied genetic, phenotypic, and morphological features
+35. Metastatic potential - evaluation of tumor markers associated with metastatic potential; high-grade tumor features; involvement of lymph nodes and distant organs
+36. Epigenetic alterations - aberrant methylation patterns or histone modifications; contributes to gene expression changes.
+37. Molecular subtyping - categorization of tumors based on molecular signatures; identification of specific genetic or protein markers
+38. Extracellular vesicles - various sized vesicles released from tumor cells; presence determined through electron microscopy or immunohistochemistry; roles in cell-cell communication and metastasis39. X-inactive-specific transcript (XIST) - long non-coding RNA; involved in X-chromosome inactivation; visible through RNA in situ hybridization
+40. Reactive oxygen species (ROS) - indicators of oxidative stress; visible through specific stains or markers of oxidative damage
+41. Autophagy - cell degradation process seen as formation of autophagosomes and autolysosomes; fluorescent or electron microscopy used for visualization
+42. Glycosylation - changes in sugar molecule patterns attached to proteins and lipids within tumor cells; assessed using lectin histochemistry
+43. Myofibroblasts - contractile spindle-shaped cells in the tumor stroma; alpha-smooth muscle actin (α-SMA) stained positive
+44. Microcalcifications - deposition of calcium in tissue; observed as dark spots on routine stained slides or using specific calcium staining techniques
+45. Adipose tissue infiltration - presence of adipocytes within or surrounding the tumor mass; assessed by lipophilic stains or histologic examination
+46. In-situ hybridization (ISH) - visualization of specific DNA or RNA sequences within the tissue; can demonstrate gene amplification, fusion, or rearrangements
+47. Genome spatial organization - three-dimensional organization of chromatin in the cell nucleus; assessed by DNA FISH, Hi-C, or super-resolution microscopy
+48. Mast cell infiltration - distribution of mast cells within the tumor microenvironment; identified by specific stains or immunohistochemistry
+49. Dendritic cell (DC) infiltration - observations of dendritic cells within the tumor tissue; identified through immunohistochemical staining or specific morphology
+50. Tumor border features - assessment of tumor-stromal interface; evaluation of cell cohesion, fibrosis, and immune cell interactions
+51. Clear cell component - presence of cells with clear or vacuolated cytoplasm; associated with specific subtypes and altered metabolism
+52. Immune checkpoint combinations - co-expression of multiple immune checkpoint proteins; assessed by multiplex immunohistochemistry or immunofluorescence
+53. Chromatin organization - alterations to chromatin packaging within the nucleus; assessed by histone modification staining or high-resolution microscopy
+54. Staining patterns for molecules involved in signaling pathways - immunohistochemical assessment of molecules in key pathways, such as Wnt/β-catenin, TGF-β, and Notch
+55. Eosinophil infiltration - presence of eosinophils in the tumor microenvironment; identified by specific cell morphology and staining characteristics
+56. Tumor filopodia - thin, actin-rich finger-like projections extending from tumor cells; assessed using phalloidin staining, electron microscopy or immunocytochemistry
+57. Cell polarity - assessment of epithelial cell polarization and the presence of apical, lateral, and basal domains; visualization using immunofluorescence or immunohistochemistry for polarity markers
+58. Oxidative and endoplasmic reticulum (ER) stress - markers of stress-related responses, such as unfolded protein response (UPR); assessed by specific staining or immunohistochemistry
+59. Proliferation markers - expression of markers associated with cell proliferation, such as Ki-67, PCNA, and MCM2; visualized through immunohistochemistry
+60. Immunoscore - quantification of immune cell populations within the tumor and its surrounding regions, providing a favorable or unfavorable prognosis61. Endothelial cell markers - expression of markers associated with endothelial function and blood vessel formation, such as CD31 or CD34; assessed through immunohistochemistry
+62. Lymphatic vessel markers - visualization of lymphatic structures within the tumor using specific markers, such as D2-40 (podoplanin) and LYVE-1
+63. Endocrine markers - presence of hormone-related proteins expressed by tumor cells, assessed through immunohistochemistry, for example, estrogen and progesterone receptors
+64. Neuroendocrine markers - expression of neuroendocrine protein markers, such as chromogranin A or synaptophysin, used for identification of neuroendocrine tumor components
+65. Glycogen presence - detection of intracellular glycogen pools using techniques such as Periodic acid-Schiff (PAS) staining
+66. Tumor cell plasticity - changes in the tumor microenvironment driving adaptive cellular behaviors, visualized through immunohistochemistry or multimodal imaging techniques
+67. Immunofluorescence - combination of multiple fluorescent labels for the simultaneous detection of various markers, enabling assessment of multiple cellular components and tumor microenvironment
+68. Neutrophil infiltration - presence of neutrophils in the tumor microenvironment, observed through specific cell morphology and staining techniques
+69. Neutrophil extracellular traps (NETs) - web-like structures composed of DNA and proteins released by neutrophils, visualization using immunofluorescence methods
+70. Cluster of differentiation (CD) markers - cluster of differentiation proteins associated with cellular identity and function, evaluated through immunohistochemistry to characterize specific cell types
+71. Telomere dysfunction - detection of critically short or dysfunctional telomeres using fluorescent in situ hybridization (FISH) or immunohistochemistry; indicative of genomic instability
+72. Cellular adhesion proteins - expression of proteins involved in cell-cell adhesion, such as E-cadherin and N-cadherin; visualized by immunohistochemistry
+73. Invasive tumor front - evaluation of tumor cell phenotype and behavior, cellular morphology, and the degree of stromal reaction at the leading edge of tumor infiltration
+74. Exosome presence - small extracellular vesicles released by tumor cells, detectable through immunohistochemistry or electron microscopy; crucial in tumor cell signaling and metastasis
+75. Leukocyte subsets - analysis of immune cell subsets in the tumor microenvironment, such as macrophages, T cells, and B cells, using immunohistochemical or multiplexing techniques
+76. Laminin-332 expression - presence of Laminin-332 protein, involved in cell adhesion and migration; assessed by immunohistochemistry
+77. Nuclear deformations - abnormalities in nuclear shape or structure, such as lobulation, irregular contours, or bleb-like extensions; visualization through H&E staining or electron microscopy
+78. Nuclear clearing - presence of lightly staining nuclei with a clearing pattern, observed in specific cancer subtypes using H&E staining
+79. Focal adhesion complexes - visualization of focal adhesion structures at the cell-substrate interface, assessed using specific markers such as vinculin, paxillin, or zyxin through immunofluorescence or immunohistochemistry
+80. Microvascular density - quantification of blood vessel distribution within the tumor, assessed using endothelial cell markers such as CD31 via immunohistochemistry

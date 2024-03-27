@@ -1,0 +1,86 @@
+HER2 Protein Regular:
+No staining is observed, or there is membrane staining in less than 10% of the tumor cells. A faint/barely perceptible membrane staining is detected in more than 10% of the tumor cells. The cells are only stained in part of their membrane.
+
+DDR (DNA damage response) Effective:
+A lack or reduced expression of these BRCA1/2, PARP, RAD51 proteins may be suggestive of defective DNA repair mechanisms, which could make the cancer cells more susceptible to DDR inhibitors.
+
+PARP Overexpression: 
+Since PARP is involved in the DNA repair process, the staining would be localized to the nucleus of the cancer cells. Overexpression would be indicated by strong nuclear staining.
+
+Lack BRCA Proteins: 
+A complete loss of BRCA protein would result in no staining in the nuclei of tumor cells where these proteins are normally localized. This is indicative of non-functional or absent BRCA protein.
+
+Lack RAD51 Proteins:
+This protein plays a critical role in HRR by facilitating the search for homology and strand pairing. In response to DNA damage, RAD51 forms nuclear foci. The absence or significant reduction of RAD51 foci formation after DNA damage can indicate HRR pathway deficiency.
+
+AKT Phosphorylation: 
+AKT can be located in both the cytoplasm and the nucleus of the cell. Phosphorylated AKT (p-AKT) often shows staining in both of these cellular compartments, but the pattern can vary depending on the specific phosphorylation site being assessed (e.g., Ser473 or Thr308).
+
+Lack PTEN Protein:
+Loss of PTEN function due to mutations is often reflected by a complete absence of staining in the tumor cells. This indicates that the PTEN protein is not present at detectable levels.
+
+PIK3CA Protiens Overexpression:
+Since PI3K is involved in signaling pathways and is located in the cytoplasm and cell membrane, a positive IHC staining would be cytoplasmic or membranous.
+
+Hormone Receptor Negative:
+Since hormone receptors are typically located in the nucleus, absence of these receptors would be indicated by a lack of staining in the nuclear area of the breast cancer cells when using antibodies specific to ER and PR. The lack of staining should be relatively uniform across the cancer cells, reflecting a consistent absence of the receptors.
+
+Pro-angiogenic Staining: 
+Overexpression of proteins like VEGF can be visualized with specific antibodies. These proteins would typically show cytoplasmic staining in the cancer cells and possibly in the surrounding stromal cells.
+
+Blood Vessel Density: 
+Endothelial cells, which line blood vessels, can be stained with antibodies against markers such as CD31 or CD34. These markers would show positive staining along the structures of blood vessels within the tumor. Increased microvessel density within the tumor is an indicator of active angiogenesis.
+
+Intensity and Distribution: 
+The intensity of staining for angiogenic factors and the distribution of blood vessels can vary within the tumor and between tumors. Areas of intense staining and high vessel density are suggestive of active angiogenesis.
+
+CK8/18 Overexpression:
+CK8/18 are present in the cytoplasm of cells, so a positive IHC staining would be localized to the cytoplasmic compartment of the cancer cells.
+
+GATA3 Overexpression:
+Overexpression of GATA3 has been observed in a subset of breast cancers, particularly those that are hormone receptor-positive. Since GATA3 is a transcription factor, it is located within the nucleus where it functions to regulate gene expression. Positive IHC staining for GATA3 would, therefore, be nuclear.
+
+K67 Protiens:
+Since Ki-67 is associated with cell proliferation, it is present in the nucleus and thus stains the nucleus of cells that are in the active phase of the cell cycle. You would not expect to see staining in non-proliferative (non-cycling) cells.
+
+CD44 Positive: 
+A cell surface glycoprotein that is often used as a CSC marker. Positive staining would typically be membranous and/or cytoplasmic.
+
+CD24 Negative: 
+Another cell surface molecule, which is usually low or negative in CSCs. It may show membranous staining in non-CSCs, thus a lack or low level of CD24 staining might be indicative of CSCs.
+
+ALDH1 Overexpression: 
+Aldehyde dehydrogenase 1 is an intracellular enzyme that is highly expressed in CSCs. Positive staining for ALDH1 would be cytoplasmic.
+
+ESA (EpCAM) Positive: 
+Epithelial cell adhesion molecule is another cell surface marker associated with CSCs. Positive staining would be expected to be membranous.
+
+ZEB2 Positive:
+As a transcription factor, ZEB2 functions within the cell nucleus to regulate gene expression. Therefore, positive IHC staining for ZEB2 would appear in the nuclei of the cancer cells that are undergoing or have undergone EMT.  In some cases, ZEB2 can also be found in the cytoplasm, and cytoplasmic staining may be observed as well.
+
+ER Negative: 
+Negative staining for the estrogen receptor. No nuclear staining in the cancer cells when stained with antibodies against ER.
+
+PR Negative: 
+Negative staining for the progesterone receptor. Similar to ER, there would be no nuclear staining in the cancer cells when stained with antibodies against PR.
+
+Tumor Cell Invasion:
+Proteins such as matrix metalloproteinases (MMPs) may be upregulated, indicating increased invasive potential.
+
+Increased EMT (epithelial-mesenchymal transition):
+Proteins such as vimentin, N-cadherin, and transcription factors like Twist or Snail might show increased expression, suggesting a cell is undergoing EMT, a process that can facilitate metastasis.
+
+Circulating Tumor Cell: 
+Rare cells in the blood that express epithelial markers (like cytokeratins) or specific cancer-associated markers can be identified, suggesting that cells from the primary tumor have entered the circulation.
+
+CD73, CD90, and CD105 Positive: 
+These are commonly used as positive markers for identifying MSCs. They are also found on the cell surface and would show membranous staining.
+
+Stro-1 Positive: 
+A marker for a subset of MSCs, which would typically show membranous staining.
+
+Vimentin Positive: 
+A cytoskeletal component of mesenchymal cells, which would show cytoplasmic staining.
+
+Long Non-coding RNAs (lncRNAs) Overexpression:
+Many lncRNAs function within the nucleus to regulate gene expression and chromatin state, so hybridization signals for these lncRNAs would be seen within the nucleus.

@@ -1,0 +1,131 @@
+>>>>>>>>>> Chromosomal instability (CIN)
+
+1. Nuclear Pleomorphism:
+This refers to the variation in the size and shape of the nuclei within the cancer cells. In a CIN subtype of gastric cancer, some nuclei may be significantly larger or smaller than the others, and their shapes may range from oval to highly irregular forms.
+
+2. Hyperchromasia
+The nuclei may appear darker than normal because they contain an excess of DNA.
+
+3. Irregular Nuclear Contours: 
+The borders of the nuclei may be uneven or indented.
+
+4. Prominent Nucleoli: 
+Nucleoli within the nuclei might be more prominent or numerous, which can be a sign of increased protein synthesis associated with rapid cell division.
+
+5. Increased Mitotic Activity: 
+An increased number of mitoses, including atypical or abnormal mitotic figures, may be present, reflecting high cellular proliferation.
+
+6. Chromatin Clumping: 
+Irregular clumping of chromatin within the nuclei, giving a patchy appearance.
+
+7. Multipolar spindles:
+As a result of the multipolar spindles, the nuclei may not divide symmetrically, leading to uneven distribution of genetic material and resulting in cells with abnormal nuclear shapes and sizes.
+
+8. Correlated Lauren's Intestinal Type:
+This type is characterized by well-formed glandular structures and resembles the histology of intestinal epithelium. It is often associated with a sequence of events that start with chronic gastritis and proceed to atrophy, intestinal metaplasia, dysplasia, and finally carcinoma. This type tends to be more common in high-incidence geographic regions for gastric cancer and is usually related to environmental factors, like diet and Helicobacter pylori infection.
+
+9. Correlated Lauren's Diffuse Type:
+In contrast, the diffuse type of gastric cancer is characterized by poorly cohesive cells that infiltrate the gastric wall, leading to thickening of the wall ("linitis plastica"). It does not form glandular structures and is less likely to be associated with intestinal metaplasia. It tends to occur more randomly worldwide and has a worse prognosis.
+
+10. Cell Proliferation: 
+The RAS pathway promotes cell division. In the context of CIN, where there is already genomic instability, this can lead to the proliferation of cells with genomic abnormalities, contributing to tumor growth and progression.
+
+11. Genomic Instability: 
+Activated RAS signaling can contribute to genomic instability by inducing a cellular environment that is conducive to DNA damage and by interfering with the accurate segregation of chromosomes during cell division. This can exacerbate the CIN phenotype.
+
+12. Tumor Heterogeneity: 
+CIN leads to a high degree of genetic heterogeneity within the tumor. The RAS pathway, by driving the proliferation of genetically diverse cells, can increase the complexity of the tumor, which may influence drug resistance and metastatic potential.
+
+13. Increased TP53 mutations:
+TP53 was significantly enriched in high-CIN tumors, indicating a possible link to mitotic stress caused by TP53 malfunctions.
+increased mitotic figures on histological slides. 
+exhibit atypical nuclear features, such as increased nuclear size, irregular nuclear contours, hyperchromasia, and prominent nucleoli, reflecting genomic instability and altered cell cycle regulation.
+manifest as a variety of cell types and abnormal structures within the tumor tissue.
+
+14. Increased PIK3CA mutations:
+PIK3CA was enriched in low-CIN tumors.
+increased cell growth and proliferation, high mitotic index or dense cellular arrangement in the tumor.
+increase in microvessel density within the tumor stroma.
+variable cellular morphology and architecture within different areas of the tumor.
+apoptotic cells may still be present, there may be fewer than expected given the degree of cellular atypia.
+contribute to tumor cell invasion and metastasis
+
+15. High Mitotic Index: 
+A high number of cells undergoing mitosis, especially atypical mitoses (irregular mitotic figures), can reflect rapid tumor growth and a higher likelihood of metastasis.
+
+16. Lymphovascular Invasion: 
+The presence of tumor cells within lymphatic and/or blood vessels is a direct indication of metastatic potential.
+
+17. Perineural Invasion: 
+Tumor cells seen invading the spaces surrounding nerves (perineural space) are often associated with aggressive tumors and an increased risk of metastasis.
+
+18. Tumor Budding: 
+The presence of small clusters of cancer cells or individual cells at the invasive front of the tumor can be a sign of an aggressive tumor phenotype and is correlated with metastasis.
+
+19. Desmoplasia: 
+A pronounced desmoplastic reaction, which is the growth of fibrous or connective tissue around the tumor, can sometimes be associated with more aggressive tumors.
+
+20. Depth of Invasion: 
+Deeper invasion into the gastric wall, especially into the subserosal layer or beyond, correlates with a higher risk of metastasis.
+
+21. Poorly Differentiated Tumor Cells: 
+Tumors with a high grade of dedifferentiation tend to have a higher likelihood of metastasis.
+
+>>>>>>>>>> Genomically stable (GS)
+22. Loss of Cell Cohesion: 
+Mutations in CDH1 can result in the loss of function of E-cadherin, leading to reduced intercellular adhesion. Histologically, this may manifest as diffuse infiltration of the gastric wall by isolated tumor cells or small clusters of cells, rather than forming glandular structures. This pattern is characteristic of diffuse-type gastric cancer according to Lauren's classification.
+
+23. Signet Ring Cells: 
+A classic feature associated with loss of E-cadherin function due to CDH1 mutations is the presence of signet ring cells. These cells have a large vacuole that pushes the nucleus to the periphery, creating a signet ring-like appearance. The presence of signet ring cells is indicative of a poor prognosis.
+
+24. Reduced or Aberrant Staining for E-cadherin: 
+Immunohistochemistry (IHC) for E-cadherin may show reduced or absent staining in areas where CDH1 mutations are present, reflecting the loss of protein expression.
+
+25. Abnormal Cell Shapes and Arrangement: 
+RHO gene mutations can lead to changes in cell morphology and the actin cytoskeleton, resulting in cells with an elongated or spindle shape, indicative of epithelial-to-mesenchymal transition (EMT), which may be observed in the GS subtype of GC.
+
+26. Dysregulated Actin Cytoskeleton: 
+Mutations in RHO genes could lead to alterations in the organization of the actin cytoskeleton, affecting cell shape and motility. This might not be directly observable in standard H&E staining but can be inferred from the irregular arrangement of tumor cells and is better visualized with cytoskeletal markers using IHC or fluorescent stains.
+
+27. Increased Invasiveness: 
+Both CDH1 and RHO mutations can contribute to increased cell motility and invasiveness. This may be histologically evident as increased infiltration into the surrounding stroma or as tumor cells crossing the basement membrane.
+
+28. Altered Cell Adhesion: 
+Claudin-18 is involved in cell-cell adhesion; thus, alterations could lead to changes in the integrity of the epithelial layer, which may be observed as gaps between cells or a loss of the normal "honeycomb" pattern of gastric epithelium.
+
+29. Changes in Cell Morphology: 
+The ARHGAP proteins play a role in actin cytoskeleton dynamics. A fusion involving ARHGAP may affect cell shape and polarity, which could be seen as irregularly shaped cells with altered orientation.
+
+30. Abnormal Tissue Architecture: 
+Disruption of tight junctions and cytoskeletal organization could lead to a disorganized tissue architecture, with loss of normal glandular structures and an infiltrative growth pattern.
+
+31. Immunohistochemistry (IHC): 
+While standard histology may show some of these changes, IHC may be used to demonstrate the overexpression or abnormal localization of the proteins involved in the fusion, providing indirect evidence of the fusion's presence.
+
+32. Invasive Front: 
+The fusion may contribute to a more aggressive phenotype, with evidence of deep invasion into the gastric wall and possible lymphovascular invasion.
+
+
+SLIDE_LEVEL
+
+>>>>>> GS
+Diffuse infiltration: The tumor cells are often spread out, infiltrating the gastric wall without forming a distinct mass.
+Signet-ring cells: A characteristic feature of GS GC is the presence of signet-ring cells, which have a large vacuole displacing the nucleus to one side.
+Linitis plastica: The stomach wall appears thickened and rigid, often referred to as linitis plastica, which is caused by the widespread infiltration of tumor cells.
+Poor cohesion: The tumor cells lack cohesion and do not form glands; instead, they are dispersed individually or in small clusters.
+Desmoplastic reaction: There is often a fibrotic response in the surrounding tissue, creating a dense stromal reaction to the infiltrating cancer cells.
+Absence of gland formation: Unlike intestinal-type GC, GS GC typically lacks well-formed glandular structures.
+Varied nuclear atypia: The nuclei of the tumor cells may vary in size and shape, but not as dramatically as in other types of GC.
+Mucinous stroma: There may be areas where the stroma has a mucinous appearance due to the secretion of mucins by the tumor cells.
+
+>>>>>> CIN
+High degree of nuclear pleomorphism: The nuclei of the tumor cells show significant variability in size and shape.
+Prominent nucleoli: The cells often have conspicuous nucleoli within the nuclear membrane.
+Irregular tumor glands: The glandular structures formed by the tumor cells are often irregular and distorted.
+Hyperchromasia: There is an intense staining of the nuclei due to an increased DNA content.
+Increased mitotic figures: A higher number of cells are seen in various stages of mitosis, indicating rapid cell division.
+Tumor heterogeneity: The tumor exhibits a high degree of cellular and structural variability throughout the slide.
+Structural abnormalities: The presence of structural chromosome abnormalities can sometimes be inferred from the heterogeneity in nuclear morphology.
+Invasion pattern: The tumor cells invade the gastric wall in an irregular manner, which might include both diffuse and gland-forming patterns.
+Lymphovascular invasion: There may be evidence of tumor cells within lymphatic and/or blood vessels, indicating the potential for metastasis.
+Desmoplastic reaction: The surrounding connective tissue often reacts to the tumor growth by becoming more fibrous.

@@ -1,0 +1,58 @@
+1. Lymphoid Stroma - high lymphocyte infiltration; dense lymphoid aggregates; lymphoepithelial lesions
+2. Tumor-infiltrating Lymphocytes (TIL) - higher TIL presence; mixed T-cell and B-cell lymphocytes
+3. Heterogeneity - high-grade tumor areas; low-grade tumor areas; varying tumor growth patterns
+4. Glandular Structures - irregularly shaped glandular structures; back-to-back glandular arrangement; dilated glandular lumina
+5. Epithelial Cell - large, pleomorphic nuclei; prominent nucleoli; frequent mitotic figures
+6. Inflammatory Infiltrate - high presence of inflammatory cells (neutrophils, eosinophils, plasma cells); localized or widespread inflammation
+7. Necrosis - irregular areas of tumor necrosis; dense mononuclear cell infiltrate surrounding necrosis
+8. Fibrosis - dense fibrosis surrounding tumor cells; fibrotic bands; fibrovascular network9. Desmoplastic Reaction - abundant collagen deposition; spindle-shaped fibroblasts; altered stromal architecture
+10. Angiogenesis - increased microvessel density; irregular branching patterns; endothelial cell proliferation
+11. Apoptosis - apoptotic bodies; apoptotic tumor cells; irregular nuclear contours
+12. Intra-tumoral Heterogeneity - mixed tumor cell populations; varying nuclear features; histologic subtypes within the same tumor
+13. Cellular Atypia - nuclear variability; hyperchromasia; chromatin clumping
+14. Crypts Destruction - loss of normal gastric crypt architecture; cryptitis; crypt abscesses
+15. Signet-ring Cell Morphology - intracytoplasmic mucin vacuoles; crescent-shaped nuclei; signet-ring appearance
+16. Mucin Production - extracellular mucin pools; mucin lakes; mucin-filled glandular lumina
+17. Perineural Invasion - tumor cells surrounding nerves; nerve sheath expansion; infiltration of nerve bundles
+18. Basaloid Morphology - basaloid tumor cells; indistinct cellular borders; small, hyperchromatic nuclei
+19. Pleomorphism - variations in cell and nuclear size; irregular nuclear shapes; pleomorphic multinucleated cells
+20. Tumor Budding - small clusters of tumor cells; isolated single cells; tumor cells dissociated from the main tumor mass21. Invasive Front - irregular tumor border; infiltrating tumor islands; invasion into adjacent tissue
+22. Pagetoid Spread - tumor cells within intraepithelial spaces; individual pleomorphic cells; enlarged, hyperchromatic nuclei
+23. Pseudopalisading Necrosis - rows of tumor cells around necrotic areas; elongated, palisading nuclei; geographic necrosis patterns
+24. Mitotic Indices - high frequency of mitotic figures; atypical mitoses; prophase, metaphase, anaphase, or telophase cells
+25. Clear Cell Changes - clear cytoplasm; eccentric nuclei; perinuclear halo
+26. Invasive Lobular Growth Pattern - linear, single file growth; dispersed tumor cells; loss of cell-cell adhesion
+27. Vascular Invasion - tumor cells within blood vessels; intravascular tumor emboli; tumor-associated thrombosis
+28. Satellite Nodules - separate tumor nodules adjacent to main tumor mass; similar histology; distinct tumor borders
+29. Syncytial Growth Pattern - aggregates of tumor cells without gland formation; poorly defined cell borders; high nuclear-to-cytoplasmic ratios
+30. Pattern of Tumor Infiltration - pushing or infiltrative border; growth along pre-existing structures (lymphatics, nerves, vessels, or glands); concentric growth around structures
+31. Chorionic Changes - onset of choriocarcinomatous features; multi-nucleated syncytiotrophoblast-like cells; hemorrhage
+32. Neural Invasion - nests of tumor cells within Schwann cell sheaths; perineural cuffs; direct infiltration of nerve tissue
+33. Tumor-stroma Ratio - proportion of tumor cells to stromal tissue; high stroma content; low stroma content
+34. Eosinophilic Infiltration - high density of eosinophils; intense eosinophilic response; eosinophilic desmoplastic reaction35. Squamous Differentiation - squamous metaplasia within tumor; keratinization; formation of keratin pearls
+36. Scirrhous Growth Pattern - extensive fibrosis around tumor cells; collapsed glandular structures; small tumor cell nests within desmoplastic stroma
+37. Cribriform Structures - glandular spaces filled with tumor cells; sieve-like appearance; intraluminal necrosis
+38. Muscle Invasion - tumor cells infiltrating smooth muscle; involvement of muscularis mucosae or muscularis propria; destruction of muscle layers
+39. Lymphangiogenesis - increased lymphatic vessel density; lymphatic vessel dilation; proliferation of lymphatic endothelial cells
+40. Sebaceous Differentiation - sebaceous gland-like structures; cytoplasmic lipid droplets; mature sebocytes
+41. Spindle Cell Features - elongated, spindle-shaped tumor cells; fascicles of spindle cells; storiform or whorled patterns
+42. Myxoid Changes - myxoid stroma; pools of mucopolysaccharides; tumor cells embedded in myxoid lumina
+43. Intratumoral Lymphatic Vessel Invasion - lymphatic vessels containing tumor cells; tumor emboli within lymphatic lumina; spread to regional lymph nodes
+44. Adenoid Cystic Patterns - small, irregularly shaped glands; cribriform or basaloid areas; lumina filled with mucoid material
+45. Hyalinized Stroma - hyaline, eosinophilic stroma; accentuated around tumor cells or in blood vessel walls; stromal calcification
+46. Peritumoral Lymphoid Aggregates - dense collections of lymphocytes surrounding the tumor; reactive follicles; formation of germinal centers
+47. Micropapillary Features - slender papillae without fibrovascular cores; reverse polarity of tumor cells; protruding papillary edges
+48. Protruding Nucleoli - prominent nucleoli within tumor cell nuclei; intranuclear inclusions; multiple or large nucleoli
+49. Atypical Erythrocyte Extravasation - abnormal blood vessel growth; extravasation of red blood cells; surrounding erythrophagocytosis
+50. Invasion of Adjacent Structures - tumor cells infiltrating into adjacent tissues, such as serosal surfaces or submucosal tissue; satellite tumor nodules; infiltration of nerves or vessels51. Schirmer's Test - assessment of tear production by inserting a paper strip into the lower eyelid; correlation with salivary gland involvement
+52. Sialic Acid Expression - elevated sialic acid expression on tumor cells; aberrant glycosylation patterns; cell surface glycoproteins
+53. Periosteal Reaction - thickening of periosteum due to adjacent tumor infiltration; bone destruction; osteoblastic or osteoclastic activity
+54. Psammoma Bodies - concentric, lamellated calcifications within tumor tissue; associated with papillary structures; progressive intraluminal calcification
+55. Mucous Cell Adaptation - presence of goblet cells; mucin-filled cells; mucus secretion
+56. Desquamated Tumor Cells - shedding of tumor cells from the neoplastic epithelium; ranges from individual cells to cell clusters; floating in lumina
+57. Tumor-associated Macrophages - high density of infiltrating macrophages; localized to tumor-stroma interface or within tumor cell nests; diverse morphology
+58. Thrombocytic Aggregations - platelet-rich thrombi within tumor-associated blood vessels; intravascular thrombus formation; clotting around tumor emboli
+59. Papillary Formation - papillary structures with true fibrovascular cores; proliferating tumor cells around fibrovascular stalks; well-formed papillae
+60. Calcification - presence of dystrophic or psammomatous calcification within tumor or stroma; punctate or clustered calcifications; ossification
+
+Please note that some of these additional factors might not be specifically related to Epstein-Barr virus (EBV)-positive subtype of Gastric cancer and might represent more general features found in various types of cancer.

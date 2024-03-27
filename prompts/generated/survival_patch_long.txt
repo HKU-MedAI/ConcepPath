@@ -1,0 +1,96 @@
+1. Tumor size - Small diameter; well-defined borders
+2. Histological subtype - Adenocarcinoma: glandular pattern; solid growth pattern; Squamous cell carcinoma: keratin pearl formation; intercellular bridges
+3. Tumor grade - Low-grade: well-differentiated; uniform cells; minimal pleomorphism
+4. Lymphatic invasion - Absence: no lymphatic channels filled with tumor cells
+5. Vascular invasion - Absence: no tumor cells within blood vessel walls
+6. Necrosis - No necrotic areas: absence of dead tumor cells; no pinkish-purple amorphous material
+7. Tumor-stroma ratio - Low: less dense fibrous stroma surrounding the tumor cells
+8. Immune cell infiltration - High: presence of immune cells like lymphocytes, macrophages, or neutrophils interspersed among tumor cells
+9. Pleural invasion - Absence: clear separation between tumor and pleural surface
+10. Mitotic count - Low: few dividing cells detected; mitotic figures spaced apart
+11. Nuclear features - Uniform nuclei; regular nuclear shape; small nucleoli
+12. Tumor budding - Absence: no single cells or small clusters of tumor cells at the invasive front13. Inflammation - Mild to moderate: presence of limited inflammatory cell infiltration; peri-tumoral inflammation
+14. Alveolar architecture preservation - Present: intact alveolar structures adjacent to the tumor
+15. Fibrosis - Minimal: limited collagen deposition in or around the tumoral areas
+16. Tumor border configuration - Pushing borders: smooth and well-defined edges with dense tumor cells
+17. Mucin production - Absence: no intracellular or extracellular mucin pools
+18. Signet ring cells - Absence: no tumor cells with enlarged, crescent-shaped nucleus and cytoplasm filled with mucin
+19. Desmoplastic stroma - Absence: no extensive dense and hypocellular collagenous stroma surrounding tumor cells
+20. Tumor-infiltrating lymphocytes (TILs) - High density: numerous TILs observed in tumor and stromal areas
+21. Pseudopalisading necrosis - Absence: no circumferential arrangement of tumor cells around necrotic foci
+22. Apoptotic bodies - Few: limited presence of small, round, dense bodies representing dying cells
+23. Tumor-associated macrophages (TAMs) - Low number: few TAMs observed within the tumor microenvironment
+24. Tumor regression - Present: histologic evidence of tumor cells disappearing, replaced by fibrosis or scar tissue
+25. Calcification - Absence: no calcium deposits in or around the tumor
+26. Metaplasia - Absence: no transformation of one cell type into another within the tumor
+27. Tumor microvessel density - Low: fewer blood vessels in the tumor microenvironment
+28. Spindle cell features - Absence: no elongated, spindle-shaped tumor cells29. Necro-inflammatory expression - Low: minor co-localization of necrotic regions and inflammation
+30. Tumor-associated neutrophils (TANs) - Low density: few TANs observed within the tumor microenvironment
+31. Perineural invasion - Absence: no tumor cells surrounding or infiltrating nerves
+32. Satellite nodule formation - Absence: no separate smaller tumor nodules near the main tumor mass
+33. Tumor giant cells - Absence: no exceptionally large tumor cells with atypical nuclei
+34. Multinucleate cells - Absence: no tumor cells containing multiple nuclei
+35. Tumor microenvironment of metastasis (TMEM) score - Low: limited numbers of TMEM trios (macrophage, endothelial cell, and tumor cell)
+36. Hyalinization - Absence: no homogenous eosinophilic material within the tumor stroma
+37. Anisocytosis - Low: minimal size variation among tumor cells
+38. Anisonucleosis - Low: minimal size variation among cell nuclei
+39. Lymphoid follicles at the tumor margin - Presence: identifiable lymphoid follicles at invasive tumor border
+40. Chemosensitivity - High: dominant presence of HR (homologous recombination)-deficient histopathological features
+41. Chemoresistance - Low: limited presence of HR-proficient histopathological features
+42. Immunosurveillance - High level: active immunosurveillance features such as positive immune checkpoints
+43. Pagetoid spread - Absence: no spread of tumor cells along pre-existing structures like bronchi or alveoli
+44. Metastatic niche formation - Absence: no environment with the potential to support tumor cells
+45. Clear cell component - Absence: no tumor cells with cleared, glycogen-rich cytoplasm
+46. Myxoid stroma - Absence: no loose myxomatous stroma rich in hyaluronic acid
+47. Lipomatous differentiation - Absence: no adipose tissue within the tumor
+48. Ossification - Absence: no bone tissue formation in or near the tumor
+49. Melanin production - Absence: no melanin pigment in tumor cells
+50. Formation of Cholesterol Clefts - Absence: no accumulation of cholesterol deposits within tumor areas51. Lymphocyte density in invasive margin - High: increased density of lymphocytes at the tumor margin
+52. Stromal maturity - Mature: well-organized stromal tissue surrounding the tumor
+53. Angiolymphatic bundles - Absence: no bundles of blood vessels and lymphatic channels adjacent to or within the tumor
+54. Adipose tissue infiltration - Absence: no tumor spread into the surrounding adipose tissue
+55. Cellular orientation - Organized: cells in ordered arrangement; maintained polarity
+56. Mesenchymal transition features - Absence: lack of characteristics suggesting epithelial-to-mesenchymal transition (EMT)
+57. Epithelial component - Dominant: higher proportion of epithelial cells in the tumor
+58. Ki67 index - Low: few tumor cells with Ki67-positive nuclei, indicating low proliferation rate
+59. Fibroblast infiltration - Low: fewer cancer-associated fibroblasts present in the tumor microenvironment
+60. Hemorrhage - Absence: no blood leakage in or around the tumor
+61. Tumor capsule - Present: intact, fibrous capsule encasing the tumor
+62. Lymphocytic response - Brisk: strong lymphocytic infiltrate at the tumor-stroma interface
+63. Reactive stroma - Absence: no stromal changes in response to tumor growth
+64. Malignant melanoma - Absence: no features suggesting melanoma, such as melanocyte invasion
+65. Eosinophil infiltration - Low: few eosinophils present in the tumor microenvironment
+66. Basement membrane preservation - Intact: continuous basement membrane surrounding the tumor
+67. Hydropic degeneration - Absence: no swollen, pale tumor cells with watery cytoplasm
+68. Lymphoid aggregation - Presence: clusters of lymphocytes within or around the tumor
+69. Cancer cell senescence - Present: enlarged, flattened, and vacuolated cancer cells with an increased nucleus-to-cytoplasm ratio, which may indicate cellular senescence
+70. Fibrous septae - Absence: no fibrous bands of tissue separating tumor cell clusters or lobules
+71. Cellular atypia - Low: minimal differences in size, shape, and staining intensity relative to normal cells
+72. Cellular discohesion - Absence: maintained cell-to-cell adhesion and contacts within the tumor
+73. Cytological features of aggressiveness - Minimal: few signs of malignant potential in cellular structure
+74. Solid sheet growth pattern - Few: limited areas of tumor cells growing in solid sheets without distinct structures75. Chondroid differentiation - Absence: no chondroid (cartilage-like) matrix production by tumor cells
+76. Hemosiderin-laden macrophages - Few: minimal presence of iron-containing macrophages within and around the tumor
+77. Lymphangiogenesis - Low: limited lymphatic vessel formation around the tumor
+78. Microcystic changes - Absence: no small, fluid-filled cavities within the tumor
+79. Dystrophic calcification - Absence: no calcium deposition secondary to cell or tissue damage in or around the tumor
+80. Immature teratoma features - Absence: no immature elements such as embryonal or immature neural tissue
+81. Inflammatory infiltration patterns - Type A/B: presence of diffuse, loosely scattered lymphocytes, and macrophages or bands of inflammatory cells at the tumor border
+82. Mast cell infiltration - Low: fewer mast cells present in the tumor microenvironment
+83. Plasma cell infiltration - Low: fewer plasma cells present in the tumor microenvironment
+84. Reactive gliosis - Absence: no increase in glial cells (astrocytes, microglia) in response to tumor growth
+85. Tumor-associated lymphoid proliferation - Absence: no development of secondary lymphoid tissue around the tumor
+86. Tumor microenvironment complexity - Low: a less complex spatial distribution of different cell types, matrix components, and morphological features in the tumor vicinity
+87. Extravasation of red blood cells - Absence: no red blood cell leakage outside of blood vessels in or around the tumor
+88. Syncytial growth pattern - Absence: no tumor cells forming multinucleated syncytial structures
+89. Serous surface involvement - Absence: no tumor cells present on peritoneal, pleural, or other serous surfaces
+90. Reticulin fiber distribution - Regular: continuous and evenly spaced reticulin fibers surrounding individual tumor cells or clusters
+91. Cytokeratin expression - Low: limited expression of cytokeratin in tumor cells, potentially reflecting a less aggressive phenotype
+92. Cancer stem cell features - Absence: no distinct cell populations with cancer stem cell markers
+93. Dedifferentiated features - Absence: no tumor elements progressing towards a more primitive or less specialized phenotype
+94. Intracystic papillary formations - Absence: no papillary structures forming inside cystic areas of the tumor
+95. Foamy histiocytes - Low: fewer foamy (lipid-containing) macrophages present in the tumor microenvironment
+96. Reactive astrocytosis - Absence: no increase in astrocyte number or size in response to tumor growth in the brain
+97. Intra-tumoral granulomas - Absence: no formation of compact aggregates of immune cells, including epithelioid histiocytes and giant cells
+98. Proliferation of parenchyma - Absence: no evidence of excessive growth of the normal functional tissue surrounding the tumor
+99. Autolysis - Absence: no self-destruction of tumor cells through endogenous enzymes and cellular components
+100. Ganglion-like cells - Absence: no abnormally enlarged neurons or neuronal structures within the tumor

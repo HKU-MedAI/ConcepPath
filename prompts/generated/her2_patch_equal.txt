@@ -1,0 +1,61 @@
+1. Tumor Infiltrating Lymphocytes (TILs) - presence of immune cells; scattered distribution; within tumor stroma
+2. Tumor cellularity - number and density of tumor cells; higher density; closely packed cell clusters
+3. Nuclear pleomorphism - varying nuclear shapes; differences in nuclear staining intensity; irregular nuclear contours
+4. Mitotic activity - amount of tumor cell proliferation; presence of mitotic figures; higher mitotic count
+5. In-situ carcinoma - ductal and lobular structures; neoplastic cells filling ducts; preservation of myoepithelial cell layer
+6. Elastic tissue invasion - presence of tumor cells within elastic structures; fragmentation of elastic tissue; irregularly shaped elastic fibers
+7. Tumor-Stroma Ratio (TSR) - percentage of stroma and tumor within the whole slide image; higher tumor percentage; heterogeneous distribution of stroma
+8. Neovascularization - formation of new blood vessels; increased vascular density; irregular, tortuous blood vessels
+9. Necrosis - presence of dead tissue; pale eosinophilic areas; pyknotic or karyorrhectic nuclei
+10. Invasive tumor border - infiltrative growth pattern; irregular, non-circumscribed tumor edges; single cells or clusters invading surrounding tissue11. Tumor budding - small clusters of tumor cells; single cell dissociation; detached from main tumor mass
+12. Desmoplastic response - presence of dense fibrous stroma; irregular, haphazardly distributed collagen fibers; proliferating fibroblasts
+13. Mucin production - intracellular or extracellular mucin; pale, vacuolated cytoplasm; Alcian-blue or mucicarmine staining areas
+14. Lymphovascular invasion - tumor cells within lymphatics or blood vessels; endothelial-lined spaces containing tumor cells; dilated or distended vessel lumen
+15. Perineural invasion - tumor cells surrounding or infiltrating neural tissue; neural structures entrapped within tumor mass; loss of perineurium
+16. Architectural distortion - altered breast tissue architecture; disruption of normal glandular structures; irregular, angulated ducts
+17. Calcifications - presence of microcalcifications; amorphous or crystalline deposits; associated with malignant or benign lesions
+18. Stromal inflammation - presence of inflammatory cells within stroma; mixed or mononuclear infiltrates; correlation with TILs
+19. Stromal elastosis - increase in elastic fibers within stroma; thickened or thin fragmented elastic fibers; hyalinized stroma
+20. Fibrocystic changes - presence of cystic spaces; fibrous and cystic areas; apocrine metaplasia
+21. Paget's disease - presence of Paget cells; large cells with clear cytoplasm; irregular, large, hyperchromatic nuclei in the epidermis
+22. Hormone receptor expression - positive ER and/or PR IHC staining; varying intensity and extent of nuclear staining; frequently found in grade 1 or 2 tumors23. Chromosomal instability - variations in chromosome number; aneuploidy or polyploidy; revealed through molecular techniques or tumor fluorescence in situ hybridization (FISH) tests
+24. Gene amplification - increased copy number of HER2 gene; detected through FISH, chromogenic in situ hybridization (CISH), or silver in situ hybridization (SISH) analyses
+25. Tumor grade - morphological differentiation level; graded from 1 (well-differentiated) to 3 (poorly-differentiated); assessed using Nottingham or Bloom-Richardson grading systems
+26. E-cadherin expression - cell adhesion molecule; loss or reduced expression in tumor images; associated with a more invasive phenotype
+27. Epithelial-mesenchymal transition (EMT) - loss of cell-cell adhesion; altered cell morphology; spindle-shaped cells
+28. Tumor-associated macrophages - presence of macrophages within or around the tumor; correlated with tumor angiogenesis and progression; detected using immunohistochemistry
+29. Lymph node metastasis - presence of tumor cells in regional lymph nodes; detected through HE staining or IHC; varies in number and location
+30. Exosome markers - presence of exosomes in tumor microenvironment; identified with specific markers like CD63 or CD81; linked to cell communication and metastasis
+31. Endothelial cell markers - detection of endothelial cells in neovascularization areas; immunostaining for markers like CD31, CD34, or Factor VIII-related antigen
+32. Myoepithelial cells - attenuated or disrupted myoepithelial cell layer; immunostaining for markers like smooth muscle actin, S100, or p63
+33. Epithelial cell adhesion molecule (EpCAM) - overexpression in tumor cells; membranous or cytoplasmic expression; varying staining intensity in immunohistochemistry
+34. Tumor microenvironment heterogeneity - variations in cellular and matrix composition; stromal and immune cell diversity; regions with hypoxia, angiogenesis or metabolic changes
+35. Mammaglobin expression - breast-specific marker; reduced expression may indicate disease progression; detected through immunostaining
+36. Glycoprotein CD44 - marker of cancer stem cells; membranous expression pattern; potential association with tumor aggressiveness and metastasis37. Cancer stem cell markers - presence of ALDH1, SOX2, or OCT4; detected through immunostaining; association with tumor initiation and progression
+38. Hypoxia markers - presence of HIF1α, CA9, or VEGF expression; upregulated under low-oxygen conditions; linked to angiogenesis and treatment resistance
+39. Glucose transporter 1 (GLUT1) - increased expression in tumor cells; membranous or cytoplasmic staining; associated with increased glycolytic activity and tumor progression
+40. PD-L1 expression - immune checkpoint molecule; membranous or cytoplasmic expression on tumor and immune cells; potential therapeutic target in breast cancer
+41. Tumor-associated fibroblasts - presence of alpha-smooth muscle actin (α-SMA) positive cells; elongated, spindle-shaped morphology; associated with tumor progression and invasion
+42. Tumor hypoxia and necrosis - hypoxic areas indicated by hypoxia markers (i.e., HIF1α) expression; necrotic areas characterized by amorphous, eosinophilic material and karyolysis
+43. Genome-wide gene expression - analysis through microarrays or RNA-seq; identification of differentially expressed genes; potential identification of prognostic and predictive biomarkers
+44. mRNA in situ hybridization - detecting gene-specific mRNA; expression patterns correlated with protein levels; potential assessment of therapeutic targets
+45. Phosphoproteins - presence of phosphorylated proteins; detected through immunohistochemistry or other phosphoprotein detection techniques; may indicate altered signal transduction pathways
+46. Apoptosis markers - presence of cleaved caspase 3, cleaved PARP, or TUNEL positive cells; indicating cell death; assessment of cell turnover and treatment response
+47. Fibrosis - excessive collagen deposition; irregular, disorganized stromal fibers; trichrome staining of stroma
+48. Periductal inflammation - infiltration of inflammatory cells around ducts; mixed or mononuclear infiltrates; indication of immune response to tumor or adjacent tissue changes
+49. Extracellular matrix proteins - expression of fibronectin, laminin, or collagen IV; immunostaining patterns; influence on cell adhesion and migration
+50. Integrin expression - cell surface adhesion and signaling receptors; immunohistochemical detection; variations in expression linked to tumor cell invasiveness and metastasis51. Matrix metalloproteinase (MMP) expression - enzymes involved in extracellular matrix degradation; upregulation in tumor cells; immunohistochemical staining
+52. Tenascin-C - extracellular matrix glycoprotein; upregulated in tumor stroma; immunohistochemical staining; association with invasion and metastasis
+53. Matrix stiffness - increased stiffness due to collagen cross-linking; imaging features include denser collagen fibrils; linked to tumor progression and invasion
+54. Galectin-1 - carbohydrate-binding protein; upregulated in tumor cells and stroma; immunohistochemical staining; modulates cell-cell and cell-matrix adhesion
+55. Epithelial growth factor receptor (EGFR) - membrane tyrosine kinase; overexpression due to amplification or mutations; detected by immunohistochemistry; associated with poor prognosis
+56. Cytokeratin expression - intermediate filament proteins; expression patterns may vary between tumor types; immunohistochemical staining; linked to tumor cell differentiation
+57. Loss of heterozygosity (LOH) - allelic imbalance; detected at specific chromosomal regions through molecular techniques; potential to identify tumor suppressor gene regions
+58. Epigenetic modifications - alterations in DNA methylation or histone modifications; assessed through techniques like immunohistochemistry or methylation-specific PCR; potential predictive markers
+59. MicroRNA (miRNA) expression - small non-coding RNAs; aberrant expression in tumor cells; detected through in situ hybridization or RT-PCR; potential prognostic markers
+60. Exosome- and microvesicle-related markers - presence of exosomal or microvesicle markers like Alix, Tsg101, or Flotillin-1; immunohistochemical detection; association with tumor cell communication and metastasis
+61. Plasminogen activator inhibitors (PAI-1 and PAI-2) - extracellular protease inhibitors; immunohistochemical assessment; potential correlation with tumor aggressiveness and metastasis
+62. Autophagy markers - presence of LC3 and Beclin-1; upregulation in tumor cells; immunohistochemical staining; may correlate with tumor progression and treatment resistance
+63. Caveolin-1 - membrane scaffolding protein; altered expression in tumor cells; detected by immunohistochemistry; potential association with tumor cell migration and invasion
+64. Focal adhesion kinase (FAK) - intracellular signaling molecule; aberrant expression in tumor cells; immunohistochemical assessment; linked to tumor cell motility and invasion
+65. Tumor microtubule-associated proteins - MAPs like Tau, MAP2, or MAP1B; immunohistochemical evaluation; association with microtubule stability and resistance to microtubule-targeting agents

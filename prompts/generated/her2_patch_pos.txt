@@ -1,0 +1,123 @@
+1. Overexpression of HER2 protein - intense membranous staining; more than 30% of invasive tumor cells 
+
+2. Irregular tumor borders - distorted, jagged edges; branching patterns
+
+3. High nuclear pleomorphism - variability in nuclear size and shape; overlapping nuclei; generally large, dark nuclei
+
+4. Increased mitotic rate - frequent presence of mitotic figures; higher cell proliferation
+
+5. Tubule formation - reduced%; decreased tubule structures; loss of well-defined glands
+
+6. High histologic grade - poorly differentiated cells; poorly organized architecture; increased likelihood of lymphatic invasion 
+
+7. Lympho-vascular invasion - tumor cells within blood vessels or lymphatic channels; presence of intravascular or perivascular tumor emboli
+
+8. Area of necrosis - dead or degenerating cells; necrotic tissue regions; irregular boundaries between necrosis and viable tissue9. Tumor infiltrating lymphocytes - presence of immune cells within or around tumor tissue; clusters or nests of lymphocytes; immune response indication
+
+10. Peritumoral stromal reactions - dense stromal cell infiltrations; increased collagen depositions; stromal hypercellularity
+
+11. Cellular discohesion - loss of cell-to-cell adhesion; irregularly spaced tumor cells; single cells or small cell clusters apart from tumor mass
+
+12. Apocrine differentiation - large, eosinophilic cytoplasm; granular, centrally located nucleus; prominent nucleoli
+
+13. Chromatin pattern - irregular, condensed chromatin; clumped or coarse chromatin distribution within nuclei
+
+14. Cancer cell budding - detached cells or small clusters at invasive front; low adhesion; migration towards surrounding tissue
+
+15. Inflammatory response - presence of various immune cells (neutrophils, macrophages); infiltration in and around tumor site
+
+16. High Ki-67 Index - increased nuclear expression of Ki-67 protein; high proliferation index in a large percentage of tumor cells
+
+17. Tumor size and shape - large, irregular masses; potential distortions of surrounding breast architecture
+
+18. Presence of calcifications - small, irregular calcium deposits within tumor; may appear as linear or branching patterns on images
+
+19. Ductal carcinoma in situ (DCIS) - non-invasive malignant cells; inside and/or around ducts; high nuclear pleomorphism; complex architecture; increased mitotic rate
+
+20. Invasive tumor cell clusters - deeply infiltrating tumor cells; cells with irregular shapes and sizes; pushing or infiltrating the surrounding tissues21. Pleomorphic cytology - marked variability in cell and nuclear size; pleomorphic cells throughout tissue; bizarre cell shapes and chromatin patterns
+
+22. Microcalcifications - tiny calcium deposits within tumor or surrounding tissues; may appear as fine granular, punctate, or linear patterns on images
+
+23. Stromal desmoplasia - abundant extracellular matrix deposition; dense fibrous stroma infiltration; collagen-rich connective tissue surrounding tumor
+
+24. Intraductal papillary growth - finger-like projections within the duct lined by neoplastic cells; complex architecture; development of fibrovascular cores
+
+25. Perineural invasion - tumor cells surrounding or infiltrating nerves; presence of cancer cells either within or around the nerve sheath
+
+26. Tumor multifocality or multicentricity - presence of multiple tumor foci or masses within the same breast region; varying size among distinct lesions
+
+27. Intratumoral heterogeneity - diverse cell populations within the tumor; intermingled areas of different histologic patterns or grade
+
+28. Extracellular mucin production - presence of mucin-filled areas; tumor cells floating within mucin-rich regions; sign of mucinous differentiation
+
+29. Lymph node involvement - metastatic cells present within lymph nodes; either isolated cell clusters or larger tumor masses within the nodes
+
+30. Satellite nodules - smaller, separate tumor nodules adjacent to the primary tumor; extension of the central tumor mass; invasion of surrounding tissues
+
+31. Lymphedema - tissue swelling in the breast or adjacent regions; caused by disrupted lymph flow due to tumor presence or lymph node involvement
+
+32. Angiogenesis - formation of new blood vessels within and around the tumor; prominent vessel density; increased vascularization
+
+33. Atypical ductal hyperplasia (ADH) - increased proliferation of ductal cells; with preserved lobular architecture; architectural atypia; possible precursor to cancer
+
+34. Skin or nipple retraction - thickening or tightening of the skin around the tumor; visible changes in breast appearance; potential sign of underlying cancer growth35. Paget's disease of the nipple - eczematous lesions on the nipple or areola; presence of neoplastic cells within the epidermis of the nipple and areolar complex
+
+36. Dermal lymphatic invasion - tumor cells within the lymphatic channels of the skin; increased risk of spreading through superficial lymphatics
+
+37. Leukocyte infiltrates - immune cells such as neutrophils, eosinophils, or mast cells within the tumor or surrounding tissue; localized immune response to cancer cells
+
+38. Hyalinization - accumulation of homogenous, glassy, eosinophilic material within the tumor or stroma; replacement of cellular components with hyalinized tissue
+
+39. Columnar cell lesions - tall, columnar cells lining breast ducts; variability in nuclear size and morphology; may be a precursor to cancer in some cases
+
+40. Psammoma bodies - concentric, lamellated, acellular, calcium deposits within the tumor or surrounding tissue; may be associated with certain tumor subtypes
+
+41. Pseudoangiomatous stromal hyperplasia (PASH) - complex network of slit-like spaces within dense stromal tissue; mimicking the appearance of blood vessels
+
+42. Skipped lesions - areas of non-neoplastic tissue within the cancer-affected breast; normal glandular tissue or fibroadenomatoid appearing tissue in between cancerous areas
+
+43. Cytokeratin expression - presence of cytokeratins in cytoplasmic filaments of tumor cells; may indicate the epithelial origin of cancer cells
+
+44. Anoikis resistance - tumor cells surviving in the absence of cell adhesion; ability to avoid apoptosis despite a detached state
+
+45. Erythrocyte extravasation - presence of escaped red blood cells within the tumor; disruption of blood vessel walls due to cancerous invasion
+
+46. Hormone receptor status - presence of estrogen receptor (ER) and/or progesterone receptor (PR) proteins on tumor cell surfaces; influence on the response to hormone therapy
+
+47. Tissue hypoxia - decreased oxygen levels within the tumor microenvironment; caused by inadequate blood supply; potential inducer of adaptive changes and tumor aggressiveness
+
+48. Non-neoplastic cysts - benign fluid-filled cavities within breast tissue; may be present alongside cancerous lesions; similar appearance to cystic tumor components
+
+49. Focal adhesion kinase (FAK) overexpression - increased expression of FAK protein in tumor cells; associated with cell migration, invasion, and poor prognosis
+
+50. Biomarker expression - the presence of specific cellular markers within the tumor; additional diagnostic and prognostic information; targeted therapy implications (e.g., PD-L1, p53, EGFR)51. Adipose tissue invasion - tumor cells infiltrating and disrupting the surrounding fat tissue; breach of adipocyte layers; potential influence on cancer progression
+
+52. Lymphoid aggregates - clusters of immune cells, particularly lymphocytes, within or around the tumor; hallmark of a localized immune response to cancer
+
+53. Matrix metalloproteinase (MMP) activity - increased levels of MMPs in tumor cells or stroma; enzymes involved in breaking down the extracellular matrix, enabling invasion and metastasis
+
+54. Stroma-rich regions - areas within the tumor predominantly containing dense connective tissue and extracellular matrix components; often presenting with invasive components
+
+55. E-cadherin loss - downregulation or lack of E-cadherin expression in tumor cells; associated with reduced cell adhesion, increased invasion and metastasis risk
+
+56. Foamy or lipid-laden macrophages - macrophages containing lipid droplets within the cytoplasm, present in or near the tumor; potential indicator of inflammation and tissue damage
+
+57. Notch signaling activation - upregulation of Notch pathway components in the tumor; involvement in cell proliferation, differentiation, and apoptotic resistance
+
+58. Glycan modifications - altered glycosylation patterns in cancer cells; changes in cell surface carbohydrates, affecting cell adhesion and immune recognition
+
+59. Oncogene-induced senescence (OIS) - senescent cells with persistent DNA damage response, associated with oncogene activation; potential early-stage cellular growth arrest
+
+60. Cytomegalovirus (CMV) infection - infection of breast cancer cells by CMV; possible viral-induced amplification of HER2 gene or contribution to cancer pathogenesis
+
+61. Tumor budding --detached cells or small clusters at the invasive front; low adhesion; predictive of aggressive behavior of tumor
+
+62. Reactive stromal changes - increased numbers of myofibroblasts, fibroblasts, and other stromal cell types; signs of tissue remodeling and inflammation in response to tumor growth
+
+63. Lobular carcinoma in situ (LCIS) - abnormal cells within the breast lobules; non-invasive precursor lesion; associated with increased risk of later invasive cancer development
+
+64. Multinucleated giant cells - extremely large cells with multiple nuclei; can be seen in reactive or neoplastic breast tissues; may indicate an aggressive phenotype or ongoing tissue damage
+
+65. WNT signaling activation - upregulation of WNT pathway components in the tumor; known to play a role in cell growth, differentiation, and stem cell maintenance
+
+66. Autophagy - degradation of damaged cell components or invading organisms within autophagosomes; presence of autophagy-related structures within the tumor

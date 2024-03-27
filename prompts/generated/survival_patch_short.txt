@@ -1,0 +1,33 @@
+1. Tumor size - smaller dimensions; well-circumscribed borders
+2. Tumor shape - regular morphology; smooth edges
+3. Tumor location - peripheral lung regions; minimal involvement of vital structures
+4. Tumor growth pattern - clear differentiation; limited dedifferentiation; non-invasive growth; slow expansion
+5. Histological subtypes - adenocarcinomas; bronchoalveolar carcinomas; less aggressive subtypes
+6. Lymphovascular invasion - absence; limited lymphatic spread; minimal vascular invasions
+7. Necrosis - limited areas; absence of coagulative necrosis; less disrupted tissue architecture
+8. Inflammatory infiltration - fewer leukocytes; fewer macrophages; few signs of immune response
+9. Stroma content - less extensive; limited fibrotic component; less-structured cellular networks
+10. Tumor budding - minimal; limited tumor nests; fewer invasive cells at the invasion front11. Pleural invasion - absence; no tumor extension onto pleura or chest wall
+12. Tumor-infiltrating lymphocytes (TILs) - high levels; extensive presence; indication of strong immune response
+13. Mitotic count - low rate; minimal cell division; slower tumor proliferation
+14. Nuclear pleomorphism - limited variability; minor differences in cell nuclei size and shape; less aggressive behavior
+15. Presence of mucin - low amounts; less aggressive mucin-secreting adenocarcinomas 
+16. Tumor encapsulation - complete encapsulation; limited infiltrative growth; barriers against surrounding tissue invasion
+17. Angiogenesis - low vascularity; limited blood vessel formation; slower growth and limited nutrient supply
+18. Tumor-stroma ratio - low; higher proportion of tumor cells; limited interaction with stromal components
+19. Cell density - low number of cancer cells; less aggressive tumor behavior
+20. Cellular organization - well-organized tissue arrangement; limited disturbances in tissue structure
+
+Remember that this information should be considered in the context of the individual patient. The role of features in predicting survival can vary by cancer type, stage, and other factors. Additionally, whole slide images alone cannot always provide enough information to fully assess these factors. Clinicopathological data, molecular tests, and other factors must be considered to form a comprehensive assessment of prognosis.21. Chromatin pattern - homogeneous distribution; low nuclear irregularities; less aggressive behavior
+22. Tumor margin - well-defined edges; clear demarcation from surrounding healthy tissue; less invasiveness
+23. Eosinophilic infiltrates - high presence of eosinophils; possible indication of a stronger immune response; better prognosis
+24. Desmoplasia - low levels; limited fibroblast activation; less fibrotic tissue and fibrosis
+25. Individual cell shape - uniformity in cancer cell shapes; limited cellular atypia; less aggressive tumor behavior
+26. Tumor-associated fibroblasts - low amounts; limited interaction with cancer cells 
+27. Tissue clarity - well-preserved structural features; low artifact interference; easier assessment of tumor features
+28. Immune contexture - high presence of effector T-cells; involvement of dendritic cells; more effective immune response
+29. Cancer-associated fibroblasts - low levels; less tumor-promoting surrounding environment
+30. Cytokeratin expression - limited phenotypic changes; lower changes indicating a lower aggressive subtype.
+
+
+Please note that these factors should be considered along with clinical findings, test results, and other contributing factors to form a comprehensive understanding of tumor behavior and prognosis. The results will vary depending on the cancer type and stage, as well as the individual patient.

@@ -1,0 +1,3 @@
+EBV+ features: lymphoid stroma; eosinophilic infiltration; lymphoepithelioma-like carcinoma; nuclear pleomorphism; high mitotic activity
+
+MSI features: glandular architecture; poor cellular cohesion; signet ring cell carcinoma; intratumoral lymphocytes; tumor-infiltrating lymphocytes; mucinous carcinoma; Crohn-like reaction

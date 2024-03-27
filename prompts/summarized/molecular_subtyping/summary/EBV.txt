@@ -1,0 +1,167 @@
+1. Intraepithelial Lymphocytosis: 
+This feature is repeatedly mentioned as a discriminative characteristic shared by EBV and MSI/dMMR tumors. It refers to the presence of lymphocytes within the epithelium of the tumor.
+Location: Intraepithelial lymphocytosis is characterized by the presence of lymphocytes within the epithelium of the tumor. This suggests that the lymphocytes are located within the epithelial layer rather than being confined to the underlying stromal or submucosal layers.
+Histological Appearance: The lymphocytes are likely small and round with dense nuclei, which is typical of lymphocytes when viewed under a microscope in histological sections. The presence of these cells within the epithelium can disrupt the normal architecture and may be associated with other features like neoplastic epithelium and stromal lymphoplasmacytic infiltration.
+
+2. Stromal Lymphoplasmacytic Infiltration: 
+In addition to intraepithelial lymphocytosis, the presence of lymphocytes and plasma cells within the stroma (the supportive tissue of the tumor) is also highlighted.
+Location: The stroma refers to the supportive tissue of an organ, in this case, the gastric tissue surrounding the neoplastic (tumor) cells. Stromal lymphoplasmacytic infiltration would be located in this supportive connective tissue.
+Histological Appearance: Under the microscope, lymphocytes appear as small cells with large round nuclei and little cytoplasm. Plasma cells, on the other hand, are larger with eccentrically placed nuclei and more abundant cytoplasm that may appear basophilic (blue-purple with hematoxylin and eosin staining) due to the presence of rough endoplasmic reticulum necessary for antibody production. Infiltration suggests these cells are interspersed within the stromal tissue, which might be reactive and can show changes such as fibrosis or edema depending on the extent and chronicity of the infiltration.
+
+3. Neoplastic Epithelium: 
+The neoplastic (tumor) epithelium with the aforementioned features seems to be crucial for the neural network's decision-making process.
+Location: The neoplastic epithelium refers to the epithelial layer that has undergone neoplastic transformation, which means the cells have become cancerous. In gastric cancer, this would be the lining of the stomach that has developed tumor cells.
+Histological Appearance: Neoplastic epithelial cells typically show various degrees of dysplasia, which include changes such as increased nuclear size, hyperchromasia (darker staining nuclei due to increased DNA content), prominent nucleoli, increased nuclear-to-cytoplasmic ratio, and loss of normal cell differentiation and orientation. These cells may form irregular glands, solid sheets, or other patterns that deviate from the normal architecture of the gastric mucosa.
+
+4. Invasion into the Submucosa: 
+There is a tendency for the cancer to invade the submucosa, which is the layer of tissue directly beneath the mucosa of the stomach lining.
+Location: Invasion into the submucosa occurs in the proximal stomach, which includes the cardia (the area where the esophagus connects to the stomach) and the gastric body (the main part of the stomach).
+Histological Appearance: The cancer cells in EBV-positive gastric cancer infiltrate the submucosa, which is the layer of tissue beneath the mucosa, the innermost lining of the stomach. This infiltration is characterized by the presence of cancer cells within the fibrous connective tissue that constitutes the submucosa.The appearance of invasion may vary from scattered individual cells to clusters or sheets of neoplastic cells breaking through the muscularis mucosae (the thin layer of muscle under the mucosa) into the submucosal layer. Lymphocytic response can often be seen around the invading cancer cells, which may be part of the immune reaction to the EBV-positive tumor cells.
+
+5. Low Rate of Lymph Node Metastasis: 
+Compared to other gastric cancers, EBV-positive gastric cancer shows a low rate of metastasis to the lymph nodes.
+Location: The primary tumor location is often in the proximal stomach, particularly in the cardia and gastric body.
+Histological Appearance: On histological examination, lymph nodes in the regional basin (near the site of the primary tumor) may show either no cancer cells or fewer cancer cells than would be typical for other gastric cancers at a similar stage. The presence of cancer cells within the lymph nodes would be identified by disrupted architecture of the lymph node due to the presence of tumor cells, often with a pattern of replacement or expansion of the lymph node's normal structures.
+
+6. Poor Differentiation: 
+EBVaGC cells are typically poorly differentiated adenocarcinomas.
+Histological Appearance: Poor differentiation in this context refers to the lack of specialized cell features and indicates a more aggressive tumor that may not resemble the tissue of origin closely. In gastric cancer, this could mean that the glandular structures typical of the stomach lining are not well-formed. The infiltrating lymphoid stroma, which accompanies the poorly differentiated cells, is part of the histological appearance and contributes to the overall pathology of EBVaGC.​
+
+7. Lymphoid Stroma: 
+These cancer cells often present with a varying amount of infiltrating lymphoid stroma. In the early stages, the cancer has a “lace-like” pattern characterized by irregularly anastomosing tubules and cords.
+Lymphoid stroma refers to the supportive tissue within the tumor that is infiltrated by lymphocytes (a type of white blood cell). This suggests that the tumor microenvironment in EBVaGC includes an immune cell component, which is significant because it can influence tumor behavior and the body's immune response to the cancer. The "varying amount" indicates that the degree of lymphoid infiltration can differ among individual cases of EBVaGC. The presence of this stroma is a distinctive histological feature that can aid in the diagnosis of EBVaGC.​
+
+8. EBER-ISH(Epstein-Barr Encoded RNA-In Situ Hybridization) Staining: 
+A majority of EBV-associated epithelial cancers, including EBVaGC, show positive Epstein-Barr Encoded RNA-In Situ Hybridization (EBER-ISH) staining under light microscopy. This is considered a part of the diagnostic criteria for LELC (lymphoepithelioma-like carcinoma) and EBVaGC.
+EBER-ISH is a specific staining technique used to detect EBV-encoded RNA within the cells. In the context of histology, the positive staining indicates the presence of EBV within the tumor cells. This feature is used in the diagnosis of EBV-associated cancers because it directly visualizes the virus's genetic material within the tissue sample. Positive EBER-ISH staining in the tumor cells is an important marker for EBVaGC and helps to differentiate it from EBV-negative gastric cancer.​
+
+9. Epithelial Markers: 
+The tumor cells stain positively for epithelial markers. There are suggestions that CK7 expression may be reduced in EBVaGC compared to EBV-negative gastric cancers.
+Epithelial markers are proteins found on the surface of epithelial cells and are used in histology to identify and confirm epithelial cell origin. The positive staining for these markers helps to confirm the epithelial nature of the tumors. The mention of CK7 expression being potentially reduced provides a specific characteristic that might help differentiate EBVaGC from other types of gastric cancers upon histological examination.​
+
+10. "Lace-like" Pattern: 
+In the early stage, EBVaGC is characterized by a "lace-like" pattern, which is described as having irregularly anastomosing tubules and cords. This describes the arrangement and appearance of the tumor cells and the structures they form.
+Histologically, the "lace-like" pattern is described as having irregularly anastomosing tubules and cords. This implies that the tumor cells are arranged in a complex, interconnected network that resembles lace. The tubules and cords refer to the tumor cell formations that are channel-like (tubules) and long, thin clusters (cords), which are not regularly organized as they would be in normal tissue but instead form an irregular, net-like structure.
+
+11. DNA Methylation: 
+There is a mention of a hypermethylated profile in EBVaGCs, which may result from DNMT3b overexpression after EBV infection. This could be part of the molecular pathological characteristics of EBVaGCs.
+Changes in Tissue Architecture: DNA methylation can lead to the silencing of tumor suppressor genes, potentially resulting in a loss of normal tissue architecture and an increase in cellular atypia.
+Altered Cell Proliferation: By affecting the expression of genes that control the cell cycle, DNA methylation can result in increased or uncontrolled cell proliferation, which can be seen as higher cell density or disorganized growth patterns in the tissue.
+Phenotypic Changes in Cells: Methylation of DNA can cause cells to lose their differentiation. This could result in cells that appear more 'primitive' or less specialized under the microscope, a feature often seen in malignancies.
+Changes in Chromatin Structure: While not directly visible in standard histology, methylation can lead to changes in chromatin structure that can alter the appearance of the cell nuclei, making them appear more condensed or irregular.
+
+12. High frequency of PIK3CA mutations
+Increased Proliferation: A high frequency of PIK3CA mutations may be associated with increased cell proliferation, resulting in high mitotic rates observable in histological sections.
+Atypical Gland Formation: In adenocarcinomas, such as those found in EBVaGC, PIK3CA mutations may lead to atypical gland formation with complex, irregular structures.
+Cellular Pleomorphism: PIK3CA mutations can cause cells to become pleomorphic, exhibiting significant variations in size, shape, and staining characteristics.
+Increased Angiogenesis: The PI3K pathway can promote angiogenesis, leading to the formation of new blood vessels, which may be observed as increased microvascular density within the tumor.
+Tumor Border Characteristics: The activation of the PI3K pathway can influence tumor invasion, potentially resulting in pushing borders or infiltrative margins.
+Stromal Changes: There may be changes in the tumor stroma, such as increased fibrosis or a desmoplastic reaction, due to signaling changes induced by PIK3CA mutations.
+
+13. Rare TP53 mutations
+Regular Tumor Morphology: Tumors with functional p53 may exhibit more regular and organized tissue morphology compared to those with TP53 mutations, which often present with more chaotic and aberrant structures.
+Lower Grades of Cellular Atypia: Cells in tumors with a low rate of TP53 mutations might display less atypia and pleomorphism, as p53 helps in maintaining genomic stability.
+Lower Mitotic Rates: Tumors with intact p53 function may have lower mitotic rates due to the role of p53 in cell cycle arrest and apoptosis in response to DNA damage.
+Presence of Senescence Markers: p53 is involved in cellular senescence, a state of irreversible growth arrest. Tumors with functional p53 might show evidence of senescent cells, although this is not typically assessed in routine histological analysis.
+Normal Apoptotic Rates: Intact p53 function can lead to normal levels of apoptosis in response to cellular stress or damage, which may be observed as scattered apoptotic bodies within the tumor tissue.
+
+14. Syncytial trabecular pattern
+Histologically, this pattern is observed under the microscope in tissue sections stained with hematoxylin and eosin (H&E) or other histological stains. The syncytial trabecular pattern can be indicative of certain types of tumors, such as some carcinomas or melanomas, where the cells grow in a nested, cord-like fashion but do not maintain distinct cell borders, giving the tumor an interconnected, net-like structure.
+
+15. Lymphoepithelioma-like Histology
+EBV positivity is highly prevalent in lymphoepithelioma-like gastric carcinoma, with more than 90% of such cases showing EBV positivity.
+Large sheets or syncytial clusters of undifferentiated cells. Prominent lymphoid infiltration in the stroma. Lack of glandular formation. Non-keratinizing cells with vesicular nuclei and prominent nucleoli. A desmoplastic reaction surrounding the tumor clusters
+
+16. Tumor Infiltrating Lymphocytes
+EBV-associated gastric carcinomas exhibit an increased amount of tumor-infiltrating lymphocytes, regardless of the conventional histological type (diffuse or intestinal).
+Lymphocytes that are present within the tumor or at the tumor margin. They can appear as dispersed individual cells or as clusters. TILs may be found infiltrating between tumor cells or within the stroma of the tumor. The presence of TILs often correlates with an immune response to the tumor.
+
+17. EBER In Situ Hybridization
+EBV-encoded small RNAs (EBER) positivity is observed in tumor cells, and in some cases, EBER positivity is also found in the accompanying lymphocytic infiltrate but not in the tumor cells themselves.
+Dark brown or black nuclear staining in the infected cells, indicating the presence of EBV-encoded small RNAs (EBERs).
+Non-infected cells do not show this nuclear staining and remain unstained or counterstained with a different color, depending on the counterstain used.
+
+18. High frequency of ARID1A mutations
+Typically, in gastric cancer, high frequency of ARID1A mutations might be indicated by certain histological features such as prominent intra-tumoral lymphocytes, and a loss of the normal nuclear ARID1A protein expression pattern.
+Presence of a Loss of Expression: Immunohistochemistry (IHC) can be used to detect the loss of expression of the ARID1A protein, which often correlates with mutations in the ARID1A gene. Tumors with a high frequency of ARID1A mutations typically show a loss of nuclear staining in the tumor cells on IHC.
+Tumor Morphology: While there isn't a unique morphology directly tied to ARID1A mutations, some studies have noted that certain morphological features may be more common in tumors with such mutations. For example, in endometrial and ovarian clear cell carcinomas, where ARID1A mutations are also common, these tumors can present with a characteristic clear or hobnail cell appearance.
+Association with Other Pathological Features: ARID1A mutations can be associated with specific pathological features such as a high degree of cellular pleomorphism, high mitotic activity, and a pattern of growth that may be suggestive of a more aggressive tumor phenotype.
+
+19. 9p24.1 amplifications (JAK2, PD-L1, PD-L2 overexpression)
+Amplifications at the chromosomal region 9p24.1, which include the genes JAK2, PD-L1 (also known as CD274), and PD-L2 (also known as PDCD1LG2), can be associated with particular histological appearances in various cancers. These amplifications can lead to overexpression of the corresponding proteins, which may influence the tumor microenvironment and the immune response.
+Increased inflammatory infiltrate: PD-L1 and PD-L2 are ligands for the PD-1 receptor on T cells, and their overexpression can be a mechanism by which tumors evade the immune response. However, high expression of these proteins may also be associated with a higher number of tumor-infiltrating lymphocytes (TILs), which can be seen as a dense infiltrate of immune cells within the tumor.
+Tumor morphology: Overexpression of PD-L1 has been linked to a non-keratinizing morphology in EBV-positive gastric cancers, and it might influence the morphology of the tumor cells themselves. For example, in Hodgkin lymphoma, 9p24.1 amplifications are common and associated with the characteristic Reed-Sternberg cells.
+Immune checkpoint blockade response: Histologically, tumors with 9p24.1 amplifications might show a pattern that suggests they would be responsive to immune checkpoint blockade therapies, as these therapies target the PD-1/PD-L1 axis.
+
+20. ulcered or saucer-like tumor
+Central Necrosis: The center of the tumor often shows extensive tissue necrosis. This necrotic tissue is typically composed of dead cells that may be in various stages of disintegration.
+Ulceration: At the gross level, the surface of the tumor may have a break in the epithelium (ulceration), which can extend down to the underlying connective tissue. Histologically, this is seen as an absence of the protective epithelial layer, replaced by granulation tissue or fibrinous exudate.
+Inflammatory Infiltrate: Around the ulcerated area, there is often a robust inflammatory response, which may include neutrophils, lymphocytes, macrophages, and sometimes plasma cells.
+Reactive Changes: Adjacent to the necrotic and ulcerated areas, the surviving tumor cells often show reactive changes such as increased mitotic activity and cellular and nuclear pleomorphism.
+Marginal Roll: The edges of the ulcer are typically raised and may roll over, composed of proliferating tumor cells that may appear more atypical near the ulcerated area due to reactive changes and hypoxia.
+Vascular Changes: The area around the ulcer may show increased vascularity with the presence of new small blood vessels (angiogenesis), which is a response to the hypoxic environment and tissue repair demands.
+Fibrosis: In response to ongoing tissue damage and inflammation, there can be fibrotic changes in the stroma surrounding the ulcer.
+
+21. marked thickening gastric wall
+Fibrosis: An increase in fibrous connective tissue throughout the gastric wall layers, especially within the submucosa, which can lead to stiffening and thickening of the wall. This is often a response to chronic inflammation or injury.
+Inflammation: Infiltration with inflammatory cells such as lymphocytes, plasma cells, and sometimes eosinophils or neutrophils, particularly in the mucosa and submucosa, which may be associated with conditions like gastritis, including specific types such as eosinophilic or lymphocytic gastritis.
+Muscular Hypertrophy: The muscularis propria may show hypertrophy, with muscle fibers appearing thicker and more prominent than usual. This can be seen in conditions like pyloric stenosis or as a reaction to chronic obstruction or inflammation.
+Edema: Accumulation of fluid in the layers of the gastric wall, particularly the submucosa, which can give a pale, swollen appearance to the tissue.
+Neoplastic Infiltration: In the case of malignancies such as linitis plastica (a type of diffuse gastric cancer), there is a diffuse infiltration of malignant cells, often signet ring cells, which can lead to thickening of the wall without a discrete mass (desmoplastic reaction).
+Glandular Atrophy and Intestinal Metaplasia: In conditions like autoimmune gastritis, there may be loss of the normal gastric glands (atrophy) and replacement with intestinal-type epithelium.
+Granulomatous Inflammation: The presence of granulomas (nodular collections of macrophages and other immune cells) within the gastric wall, which can be seen in diseases like Crohn's disease or infections such as tuberculosis.
+Vascular Changes: Including congestion of blood vessels or the presence of vascular lesions that can contribute to wall thickening.
+Mucosal Hyperplasia: An increase in the number of cells within the mucosa, which can lead to thickening of this layer.
+
+22. DNA CpG hypermethylation (CDKN2A sliencing)
+Increased Proliferation: Silencing of CDKN2A can lead to a loss of cell cycle regulation, resulting in increased cellular proliferation. Histologically, this may manifest as a high mitotic index, with many cells in mitotic division.
+Tumor Growth Patterns: While not specific for hypermethylation, the growth patterns of the tumor, such as infiltrative borders, may reflect the aggressive nature of the malignancy due to the loss of tumor suppressor gene function.
+Cellular Atypia: Cells may display significant atypia, including nuclear enlargement, irregularity, and prominent nucleoli, which are common features in high-grade and aggressively growing tumors.
+Immunohistochemistry (IHC): On IHC, the loss of p16^INK4a expression can be suggestive of CDKN2A silencing. However, IHC results must be interpreted with caution since p16^INK4a can also be inactivated by other mechanisms such as deletions or mutations.
+
+23. EBV-encoded miRNAs (BART and BHRF1 miRNAs)
+The presence of EBV-encoded microRNAs (miRNAs), including BART (BamHI A rightward transcripts) and BHRF1 (BamHI fragment H rightward open reading frame 1) miRNAs, in EBV-positive gastric cancer cannot be inferred directly from histological appearance. These miRNAs are small non-coding RNA molecules that are involved in the post-transcriptional regulation of gene expression and can influence cancer development and progression by affecting cell proliferation, apoptosis, and immune evasion.
+Lymphoepithelioma-like Carcinoma Features: A high number of tumor-infiltrating lymphocytes within the stroma and a syncytial growth pattern of tumor cells.
+Dense Lymphoid Infiltrates: Presence of dense lymphoid stroma that can be composed of both T and B lymphocytes, sometimes with the formation of lymphoid follicles.
+Tumor Cell Morphology: Gastric cancer cells ranging from well-differentiated with gland formation to poorly differentiated with solid sheets of cells.
+Inflammation: A prominent inflammatory response, which might be related to the ability of EBV miRNAs to modulate immune surveillance.
+Immunohistochemistry and In Situ Hybridization: While not indicative of miRNAs specifically, positive staining for EBV-encoded small RNAs (EBERs) using in situ hybridization is the standard method for detecting EBV in tumor cells.
+
+24. Increased TIL Infiltration
+Histologically, this would be visible as densely packed lymphocytes within the stroma of the tumor, often in close proximity to the cancer cells. The lymphocytes can appear as small, dark staining cells with a high nucleus-to-cytoplasm ratio. In some cases, lymphocytes may form aggregates or even tertiary lymphoid structures within the tumor. The presence of these immune cells can be a sign of an active immune response against the tumor cells.
+
+25. Higher Levels of CD4 , CD8 T Cells, and T Regulatory Cells
+CD4+ T Cells: These cells would be highlighted by antibodies against the CD4 marker. They are generally found in the periphery of the tumor (in the stroma) and can also infiltrate the tumor nests. Histologically, they would appear as cells with dark staining nuclei and scant cytoplasm, which are highlighted by the CD4 stain.
+CD8+ T Cells: CD8+ cells, which are cytotoxic T cells, would be stained with antibodies against the CD8 marker. These cells may be found within the tumor itself, directly attacking tumor cells, or in the surrounding stroma. They would look similar to CD4+ cells, with dark nuclei and scant cytoplasm, but they would be highlighted by the CD8 stain.
+T Regulatory Cells (Tregs): Tregs can be identified by staining for FOXP3, which is a transcription factor that is expressed at high levels in these cells. Tregs are typically found in the tumor microenvironment and can suppress immune responses against the tumor cells. They would appear similar to other T cells but would be specifically highlighted by the FOXP3 stain.
+
+26. high levels of T cell activation
+The tumor immune landscape of EBVaGCs is characterized by high levels of T cell activation, effector gene expression, and exhaustion.
+Proliferation: Histologically, areas with high levels of activated T cells might show clusters of lymphocytes, sometimes referred to as lymphoid aggregates or tertiary lymphoid structures, which are indicative of an active immune response.
+Morphology: Activated T cells can sometimes appear larger than resting lymphocytes, with more abundant cytoplasm and prominent nucleoli.
+Expression of Activation Markers: Immunohistochemical staining can reveal the presence of activation markers such as CD69, HLA-DR, OX40, ICOS, and Ki-67 (a marker for proliferation). These markers would be visible as staining within the cells in the areas of T cell infiltration.
+
+27. Higher Levels of Immune Checkpoint Markers
+The histological appearance indicating higher levels of immune checkpoint markers would not be evident from standard hematoxylin and eosin (H&E) stained sections alone. Immune checkpoint markers are proteins that are often upregulated on the surface of cells in the tumor microenvironment, particularly when there is an ongoing immune response. To visualize these markers, immunohistochemistry (IHC) is typically used.
+PD-1 (Programmed Death-1): PD-1 is typically expressed on the surface of activated T cells. With IHC staining for PD-1, you would see brown staining on the cell membrane of T cells within the tumor microenvironment.
+PD-L1 (Programmed Death-Ligand 1): PD-L1 can be expressed on both tumor cells and infiltrating immune cells such as macrophages. IHC staining for PD-L1 would reveal membrane and sometimes cytoplasmic staining in these cells.
+CTLA-4 (Cytotoxic T-Lymphocyte-Associated Protein 4): CTLA-4 is another marker expressed on T cells after activation. IHC staining would show CTLA-4 positive cells within the lymphoid aggregates or at the invasive margins of the tumor.
+LAG-3 (Lymphocyte-Activation Gene 3): LAG-3 is expressed on the surface of T cells and can bind to MHC class II on antigen-presenting cells. IHC staining would reveal positive staining on the T cell membranes.
+TIM-3 (T-cell Immunoglobulin and Mucin-domain containing-3): TIM-3 is expressed on T cells and can also be seen on cells of the innate immune system. IHC staining would show positive cells within the tumor stroma and in proximity to tumor cells.
+
+28. higher expression of anti-tumor immunity factors
+EBVaGCs display a higher expression of anti-tumor immunity factors such as PDL1, CD155, CEACAM1, galectin-9, and IDO1.
+Tumor Cells: Changes in the expression patterns on the tumor cells themselves, such as increased membrane staining for certain markers.
+Immune Cells: The presence of immune cells with distinct staining patterns for the specific markers of interest.
+Stromal Reaction: A reactive stroma with a dense infiltration of immune cells, possibly showing signs of organization into structures reminiscent of secondary lymphoid organs.
+Inflammatory Reaction: Associated with these changes, there might be an inflammatory reaction, including other immune cells such as macrophages and natural killer cells.
+
+SLIDE LEVEL:
+Lymphoepithelioma-like carcinoma: The tumor cells are often arranged in syncytial sheets with a lack of gland formation, resembling nasopharyngeal lymphoepithelioma.
+Dense lymphoid stroma: There is typically a heavy infiltration of lymphocytes within the stroma of the tumor, giving it a lymphoma-like appearance.
+Prominent intra- and peritumoral lymphocytic reaction: The presence of lymphocytes both within the tumor and at its periphery is notable.
+EBER-ISH positive staining: While this is a molecular feature, the presence of EBV within the tumor cells can be confirmed with EBER in situ hybridization, which will show a nuclear staining pattern in the tumor cells.
+Pushing margins: The tumor tends to have expansive growth with a pushing border against the adjacent normal tissue.
+Intestinal metaplasia in surrounding mucosa: Adjacent to the tumor, there may be areas of intestinal metaplasia, which is a precursor lesion that can be seen in the context of EBV-associated gastric carcinoma.
+Lack of severe nuclear atypia: Unlike some other forms of gastric cancer, EBV-positive GC might not show severe nuclear pleomorphism.
+Absence or low frequency of lymphovascular invasion: There might be a lower incidence of lymphovascular invasion observed in these tumors compared to other subtypes of GC.
