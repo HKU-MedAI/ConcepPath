@@ -107,4 +107,4 @@ Salnikov, Mikhail et al. “Tumor-Infiltrating T Cells in EBV-Associated Gastric
 
 ## 3. Others:
 
-For other details, see **Tutorial.ipynb**
+For other details, see **[Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
