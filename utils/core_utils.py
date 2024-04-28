@@ -174,7 +174,7 @@ def validate(epoch, model, loader, n_classes, early_stopping = None, loss_fn = N
         print(correct_info)
         
     if early_stopping:
-        early_stopping(epoch, val_loss, model, ckpt_name = os.path.join(os.path.join("/home/r10user13/Capstone/TOP/experiment/LUNG/model", f"best_model.pt")))
+        early_stopping(epoch, val_loss, model, ckpt_name = os.path.join(os.path.join(f"best_model.pt")))
         
         if early_stopping.early_stop:
             print("Early stopping")
@@ -183,23 +183,20 @@ def validate(epoch, model, loader, n_classes, early_stopping = None, loss_fn = N
     return False, val_loss, acc, micro_f1, macro_f1, micro_auc, macro_auc, avg_sensitivity, avg_specificity
 
 def evaluate_metrics(y_true, y_pred, num_classes):
-    # 将PyTorch tensor转为numpy array
+    
     y_true_np = y_true.cpu().numpy()
     y_pred_np = torch.argmax(y_pred, dim=1).cpu().numpy()
 
-    # 计算Accuracy
+    
     acc = (y_true_np == y_pred_np).mean()
     cm = confusion_matrix(y_true_np, y_pred_np)
-    # 对角线元素是每个类的正确分类个数
+    
     correct_counts = np.diag(cm)
-    # 每一行的和是每个类的标签总数
     total_counts = np.sum(cm, axis=1)
 
-    # 计算F1 Score
     micro_f1 = f1_score(y_true_np, y_pred_np, average='micro')
     macro_f1 = f1_score(y_true_np, y_pred_np, average='macro')
 
-    # 计算AUC
     y_onehot = y_true.cpu().numpy()
     y_pred_prob = y_pred.cpu().numpy()
     
@@ -211,8 +208,6 @@ def evaluate_metrics(y_true, y_pred, num_classes):
         macro_auc = micro_auc
 
     
-
-    # 计算Sensitivity和Specificity
     cm = confusion_matrix(y_true_np, y_pred_np)
     sensitivity = np.diag(cm) / np.sum(cm, axis=1)
     specificity = (np.sum(cm) - np.sum(cm, axis=0) - np.sum(cm, axis=1) + np.diag(cm)) / (np.sum(cm) - np.sum(cm, axis=0))
@@ -223,13 +218,12 @@ def evaluate_metrics(y_true, y_pred, num_classes):
     return acc, correct_counts, total_counts, micro_f1, macro_f1, micro_auc, macro_auc, avg_sensitivity, avg_specificity
 
 def update_best_metrics(model_id, metrics, csv_path):
-    # 如果CSV文件存在，则加载，否则创建一个新的DataFrame
+
     if os.path.exists(csv_path):
         df = pd.read_csv(csv_path)
     else:
         df = pd.DataFrame()
 
-    # 检查model_id是否已经存在
     if 'id' in df.columns and model_id in df['id'].values:
         idx = df[df['id'] == model_id].index[0]
         for key, value in metrics.items():
@@ -238,7 +232,6 @@ def update_best_metrics(model_id, metrics, csv_path):
         metrics['id'] = model_id
         df = df._append(metrics, ignore_index=True)
 
-    # 保存更新后的DataFrame回CSV
     df.to_csv(csv_path, index=False)
 
 class EarlyStopping:

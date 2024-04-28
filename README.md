@@ -1,6 +1,10 @@
-# Towards Precise Histopathology Analysis: Aligning Concepts to Whole Slide Images
+# Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis
 
-## 1. Descriptive Prompt Generation
+## 1. Usage Tutorial:
+
+**[Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
+
+## 2. Descriptive Prompt Generation
 
 Generate descriptive prompt on two levels: slide-level and patch-level. Templates for questioning on LLM (GPT-4) are:
 
@@ -51,7 +55,7 @@ Note: `EXPERIMENT_NAME` is the same as created in `main.py`.
 EXPERIMENT_NAME=molecular_ebv_others_full_train python tools/parse_prompt.py
 ```
 
-## 2. Reference:
+## 3. Reference:
 
  - ### HER2 Summary Prompts
 
@@ -105,6 +109,3 @@ Ratti, Margherita et al. “Microsatellite instability in gastric cancer: molecu
 
 Salnikov, Mikhail et al. “Tumor-Infiltrating T Cells in EBV-Associated Gastric Carcinomas Exhibit High Levels of Multiple Markers of Activation, Effector Gene Expression, and Exhaustion.” Viruses vol. 15,1 176. 7 Jan. 2023, doi:10.3390/v15010176
 
-## 3. Others:
-
-For other details, see **[Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
