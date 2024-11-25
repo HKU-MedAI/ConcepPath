@@ -2,7 +2,7 @@
 
 ## 1. Usage Tutorial:
 
-Here is a colab tutorial for model testing, please **[click here](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**.
+Here is a colab tutorial for model testing, please **[click here](https://colab.research.google.com/drive/1HEStFLSfR1DHx5s_valMEZpyT6D__2hl?usp=sharing)**.
 
 **[Training Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
 
