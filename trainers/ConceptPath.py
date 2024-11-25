@@ -151,7 +151,7 @@ class PromptLearner(nn.Module):
         self.register_buffer("token_suffix", embedding[:, 1 + n_ctx :, :])  # CLS, EOS
 
         
-        # 初始化全学习参数
+        # initiall the data-driven parameters
         if n_flp>0 and num_patch_prompt>0:
             nn.init.normal_(flp_vectors, std=0.02)
             self.flp = nn.Parameter(flp_vectors)
@@ -337,7 +337,7 @@ class ConceptPath(nn.Module):
         slide_features_ = slide_features_/torch.sum(slide_features_, dim=-1, keepdim=True)
         slide_features_ = slide_features+slide_features_.unsqueeze(-1)*slide_features
 
-        slide_features = slide_features/slide_features.norm(dim=-1, keepdim=True)
+        slide_features = slide_features_/slide_features_.norm(dim=-1, keepdim=True)
 
         slide_features = torch.mean(slide_features, dim=1)
 
