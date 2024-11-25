@@ -2,7 +2,9 @@
 
 ## 1. Usage Tutorial:
 
-**[Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
+Here is a colab tutorial for model testing, please **[click here](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**.
+
+**[Training Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
 
 ## 2. Descriptive Prompt Generation
 
