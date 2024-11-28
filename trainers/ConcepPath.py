@@ -15,14 +15,11 @@ from clip.simple_tokenizer import SimpleTokenizer as _Tokenizer
 _tokenizer = _Tokenizer()
 
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-# device = torch.device("cpu")
 
 def orthogonal_loss(features, gamma=0.5):
-    # print(features.shape)
     if len(features.shape)<3:
-        # print("aaaaa")
         features = features.unsqueeze(0)
-    # print(features.shape)
+        
     device = (torch.device('cuda') if features.is_cuda else torch.device('cpu'))
     #  features are normalized
     features = F.normalize(features, p=2, dim=1)
@@ -56,11 +53,10 @@ class TextEncoder(nn.Module):
         x = prompts + self.positional_embedding.type(self.dtype)
 
         x = x.permute(1, 0, 2)  # NLD -> LND
-        x = self.transformer(x) #.last_hidden_state
+        x = self.transformer(x)
         x = x.permute(1, 0, 2)  # LND -> NLD
         x = self.ln_final(x).type(self.dtype)
-
-        # x.shape = [batch_size, n_ctx, transformer.width]
+        
         # take features from the eot embedding (eot_token is the highest number in each sequence)
         x = x[torch.arange(x.shape[0]), tokenized_prompts.argmax(dim=-1)] @ self.text_projection
 
@@ -81,7 +77,7 @@ class Adapter(nn.Module):
         return x
 
 class PromptLearner(nn.Module):
-    # def __init__(self, cfg, classnames, clip_model):
+    
     def __init__(self, classnames, clip_model, n_ctx, n_ddp=0, num_patch_prompt=0, is_shared=False):
         super().__init__()
         n_cls = len(classnames)
@@ -116,7 +112,7 @@ class PromptLearner(nn.Module):
 
         else:
         # random initialization
-            if not is_shared: # 是否class-wise
+            if not is_shared:
                 print("Initializing class-specific contexts")
                 ctx_vectors = torch.empty(n_cls, n_ctx, ctx_dim, dtype=dtype)
                 if n_ddp>0 and num_patch_prompt>0:
@@ -154,8 +150,6 @@ class PromptLearner(nn.Module):
         self.register_buffer("token_prefix", embedding[:, :1, :])  # SOS
         self.register_buffer("token_suffix", embedding[:, 1 + n_ctx :, :])  # CLS, EOS
 
-        
-        # 初始化全学习参数
         if n_ddp>0 and num_patch_prompt>0:
             nn.init.normal_(ddp_vectors, std=0.02)
             self.ddp = nn.Parameter(ddp_vectors)
@@ -172,11 +166,9 @@ class PromptLearner(nn.Module):
             for i in range(n_cls):
                 if i%num_patch_prompt==0:
                     cur_i_ = int(i/num_patch_prompt)
-                    # print(tokenized_ddp.shape)
                     tokenized_prompts_.append(tokenized_ddp[cur_i_:cur_i_+n_ddp])
                 tokenized_prompts_.append(tokenized_prompts[i].unsqueeze(0))
             self.tokenized_prompts = torch.cat(tokenized_prompts_, dim=0).to(device)
-            # print("aaaa")
         else:
             self.tokenized_prompts = tokenized_prompts
         
@@ -238,10 +230,10 @@ class PromptLearner(nn.Module):
                 ctx_i = ctx[i : i + 1, :, :]
                 prompt_i = torch.cat(
                     [
-                        prefix_i,  # (1, 1, dim)
-                        class_i,   # (1, name_len, dim)
-                        ctx_i,     # (1, n_ctx, dim)
-                        suffix_i,  # (1, *, dim) # 根据上面的内容变化
+                        prefix_i,  
+                        class_i,   
+                        ctx_i,     
+                        suffix_i,  
                     ],
                     dim=1,
                 )
@@ -258,16 +250,14 @@ class ConcepPath(nn.Module):
                  clip_model, 
                  loss_func, 
                  n_classes, 
-                #  attn_type, 
                  num_patch_prompt=26, 
-                 mask_ratio=0, 
                  n_ctx=16, 
                  n_ddp=0, 
                  is_shared=False, 
                  orth_ratio=0.2, 
                  weighted_type="p2c", 
-                 is_adapted=False, 
-                 tr_ratio=0):
+                 is_adapted=True
+                 ):
         
         super().__init__()
         
@@ -352,7 +342,6 @@ class ConcepPath(nn.Module):
         
         num_patchs, _ = sim_matrix.shape
         
-        ''' 4.2 slide feature part-mean '''
         slide_features = sim_matrix.t() @ patch_features
         _, embedding_len = slide_features.shape
         slide_features = slide_features/slide_features.norm(dim=-1, keepdim=True)
@@ -400,6 +389,7 @@ class ConcepPath(nn.Module):
                 attention score 为：{attention_score}\n \
                 patch_prompt_score 为：{patch_prompt_score} \
             ")
+            return Y_prob, Y_hat, attention_score, patch_prompt_score
         
         loss = self.loss_func(logits, label)
 
