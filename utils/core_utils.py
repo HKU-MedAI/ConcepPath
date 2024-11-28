@@ -84,6 +84,46 @@ def train_loop(epoch, model, loader, optimizer, n_classes, scheduler, loss_fn = 
         
     return train_loss, acc, micro_f1, macro_f1, micro_auc, macro_auc, avg_sensitivity, avg_specificity
 
+def inference(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
+    
+    device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.eval()
+    test_loss = 0.
+
+    all_probs = []
+    all_labels = []
+
+    patient_results = {}
+    
+    for batch_idx, (data, label) in enumerate(loader):
+        
+        test_name = test_name_list[batch_idx].split("/")[-1].replace(".pkl","")
+        
+        result_fp = os.path.join(attn_score_fp, vlm_model)
+        if test:
+            if not os.path.exists(result_fp):
+                os.makedirs(result_fp)
+        result_fp = os.path.join(result_fp, f"{test_name}.pkl")
+        
+        data, label = data.to(device), label.to(device)
+        
+        with torch.no_grad():
+            Y_prob, Y_hat, attention_score, patch_prompt_score = model(data, label, result_fp, test)
+
+        probs = Y_prob.detach()
+        labels = label.item()
+        # losses = loss.item()
+        
+        all_probs.append(probs)
+        all_labels.append(label)
+        # test_loss += losses
+        
+        patient_results[test_name] = f"is {Y_hat.item()==labels}, pred: {Y_hat.item()}, label: {labels}"
+
+        description = f"The result of {test_name} is {Y_hat.item()==labels}: \n Prediction Result: {Y_hat.item()}\n True label: {labels}"
+        
+        return description, Y_prob, Y_hat, attention_score, patch_prompt_score
+
 def test(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
     
     device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
