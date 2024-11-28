@@ -383,12 +383,12 @@ class ConcepPath(nn.Module):
         Y_hat = torch.topk(logits, 1, dim=1)[1]
         
         if test:
-            print(f" \
-                概率为：{Y_prob}\n \
-                分类为：{Y_hat}\n \
-                attention score 为：{attention_score}\n \
-                patch_prompt_score 为：{patch_prompt_score} \
-            ")
+            # print(f" \
+            #     概率为：{Y_prob}\n \
+            #     分类为：{Y_hat}\n \
+            #     attention score 为：{attention_score}\n \
+            #     patch_prompt_score 为：{patch_prompt_score} \
+            # ")
             return Y_prob, Y_hat, attention_score, patch_prompt_score
         
         loss = self.loss_func(logits, label)
