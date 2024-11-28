@@ -120,8 +120,15 @@ def infer(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, te
         
         patient_results[test_name] = f"is {Y_hat.item()==labels}, pred: {Y_hat.item()}, label: {labels}"
 
-        description = f"The result of {test_name} is {Y_hat.item()==labels}: \n Prediction Result: {Y_hat.item()}\n True label: {labels}"
-        
+        description = "=" * 40 + "\n" + \
+                f"Inference on: {test_name}\n" + \
+                "-" * 40 + "\n" + \
+                f"Prediction Result: {Y_hat.item()}\n" + \
+                f"True Label: {labels}\n" + \
+                f"Match: {'Yes' if Y_hat.item() == labels else 'No'}\n" + \
+                "=" * 40
+
+
         return description, Y_prob, Y_hat, attention_score, patch_prompt_score
 
 def test(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
