@@ -84,7 +84,7 @@ def train_loop(epoch, model, loader, optimizer, n_classes, scheduler, loss_fn = 
         
     return train_loss, acc, micro_f1, macro_f1, micro_auc, macro_auc, avg_sensitivity, avg_specificity
 
-def inference(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
+def infer(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
     
     device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.eval()
