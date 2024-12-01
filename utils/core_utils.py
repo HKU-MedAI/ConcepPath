@@ -84,7 +84,7 @@ def train_loop(epoch, model, loader, optimizer, n_classes, scheduler, loss_fn = 
         
     return train_loss, acc, micro_f1, macro_f1, micro_auc, macro_auc, avg_sensitivity, avg_specificity
 
-def infer(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
+def infer(sample_data_name, model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, test=False):
     
     device=torch.device("cuda" if torch.cuda.is_available() else "cpu")
     model.eval()
@@ -96,9 +96,11 @@ def infer(model, loader, n_classes, test_name_list, attn_score_fp, vlm_model, te
     patient_results = {}
     
     for batch_idx, (data, label) in enumerate(loader):
+        print("???",label)
         
         test_name = test_name_list[batch_idx].split("/")[-1].replace(".pkl","")
-        
+        if test_name not in sample_data_name:
+          continue
         result_fp = os.path.join(attn_score_fp, vlm_model)
         if test:
             if not os.path.exists(result_fp):
