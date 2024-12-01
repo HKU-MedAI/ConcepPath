@@ -1,0 +1,3 @@
+,data_path,label,type
+0,/content/extracted_WSI_features/TCGA-95-7567-01Z-00-DX1.982FF122-A440-4949-926C-B58AF8381090.pkl,lung adenocarcinoma,test
+1,/content/extracted_WSI_features/TCGA-96-8170-01Z-00-DX1.8283cd4c-f374-4320-88bd-36a462866d24.pkl,lung squamous cell carcinoma,test
