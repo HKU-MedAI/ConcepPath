@@ -1,10 +1,18 @@
 # Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis
+---
+
+## Updates
+- **02/12/2024:** included GPT4o summarized prompts.
+---
+
 
 ## 1. Usage Tutorial:
 
 Here is a colab tutorial for model testing, please **[click here](https://colab.research.google.com/drive/1HEStFLSfR1DHx5s_valMEZpyT6D__2hl?usp=sharing)**.
 
 **[Training Tutorial.ipynb](https://github.com/HKU-MedAI/ConcepPath/blob/main/Tutorial.ipynb)**
+
+---
 
 ## 2. Descriptive Prompt Generation
 
@@ -56,6 +64,8 @@ Note: `EXPERIMENT_NAME` is the same as created in `main.py`.
 ```bash
 EXPERIMENT_NAME=molecular_ebv_others_full_train python tools/parse_prompt.py
 ```
+
+---
 
 ## 3. Reference:
 
@@ -111,3 +121,4 @@ Ratti, Margherita et al. “Microsatellite instability in gastric cancer: molecu
 
 Salnikov, Mikhail et al. “Tumor-Infiltrating T Cells in EBV-Associated Gastric Carcinomas Exhibit High Levels of Multiple Markers of Activation, Effector Gene Expression, and Exhaustion.” Viruses vol. 15,1 176. 7 Jan. 2023, doi:10.3390/v15010176
 
+---
