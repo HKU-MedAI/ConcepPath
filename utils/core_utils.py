@@ -96,7 +96,7 @@ def infer(sample_data_name, model, loader, n_classes, test_name_list, attn_score
     patient_results = {}
     
     for batch_idx, (data, label) in enumerate(loader):
-        print("???",label)
+        # print("???",label)
         
         test_name = test_name_list[batch_idx].split("/")[-1].replace(".pkl","")
         if test_name not in sample_data_name:
