@@ -2,7 +2,9 @@
 
 
 ### Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis
-*npj Digital Medicine accepted*
+*npj Digital Medicine*
+ 
+[Journal Link](https://www.nature.com/articles/s41746-024-01411-2)
 
 **Abstract:**
 Due to the large size and lack of fine-grained annotation, Whole Slide Images (WSIs) analysis is commonly approached as a Multiple Instance Learning (MIL) problem. However, previous studies only learn from training data, posing a stark contrast to how human clinicians teach each other and reason about histopathologic entities and factors. Here we present a novel knowledge concept-based MIL framework, named ConcepPath to fill this gap. Specifically, ConcepPath utilizes GPT-4 to induce reliable diseasespecific human expert concepts from medical literature, and incorporate them with a group of purely learnable concepts to extract complementary knowledge from training data. In ConcepPath, WSIs are aligned to these linguistic knowledge concepts by utilizing pathology vision-language model as the basic building component. In the application of lung cancer subtyping, breast cancer HER2 scoring, and gastric cancer immunotherapy-sensitive subtyping task, ConcepPath significantly outperformed previous SOTA methods which lack the guidance of human expert knowledge.
@@ -130,4 +132,17 @@ EXPERIMENT_NAME=molecular_ebv_others_full_train python tools/parse_prompt.py
 
 
 ## Reference:
-If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://arxiv.org/abs/2411.18101).
+If you find our work useful in your research or if you use parts of this code please consider citing our [paper](https://www.nature.com/articles/s41746-024-01411-2).
+
+```
+@article{zhao2024aligning,
+  title={Aligning knowledge concepts to whole slide images for precise histopathology image analysis},
+  author={Zhao, Weiqin and Guo, Ziyu and Fan, Yinshuang and Jiang, Yuming and Yeung, Maximus CF and Yu, Lequan},
+  journal={npj Digital Medicine},
+  volume={7},
+  number={1},
+  pages={383},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
